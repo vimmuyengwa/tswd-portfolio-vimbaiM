@@ -23,12 +23,6 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 2. I hope to be a better visualizer and storyteller 
 3. I would like to have increased patience with creating visuals and allow my selft to be creative without feeling rushed or unnecessary pressure 
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
 # Portfolio
 
 # Best of Breed (Visualizations) 
