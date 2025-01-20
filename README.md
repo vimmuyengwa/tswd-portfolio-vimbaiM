@@ -11,14 +11,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  My name is Vimbai. My career spans several industries including the manufacturing, non-profit, law, technology, and consulting realms. My journey into the tech world is uniquely non-traditional: I majored in Sociology during my undergraduate studies. This background profoundly shaped my worldview, instilling a deep commitment to making a meaningful impact by driving positive change through my work. The love I have for working with data to influence decision makers and also make decisions began while I was working in finance and vendor management. I have experience using systems such as Workday, Adaptive Insights, Sage100, Cyrus ERP, Vizzlo, Excel and Raiser's Edge to analyze and report data. Prior to entering my graduate school program, I was working as a Technology Consultant in Cloud FinOps and IT Business Analysis where I further honed my data visualization skills for client presentations and executive summaries. I am hoping to gain further skills in data visualization and improve as an effective storyteller.  
+
+My goal post graduation goal is to return to the Cloud FinOps Space. In a nutshell, I am studying Information Systems Management to hone my expertise in cloud cost management, FinOps, and technology-driven solutions by understanding information systems at their core.  Whether it’s through FinOps assessments, cost optimization strategies, or building robust financial frameworks for the cloud, I would love to empower companies to innovate responsibly and effectively!
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. I would like to begin sharpening my skillset with a number of tools as part of my experience including GitHub and Tableau
+2. I hope to be a better visualizer and storyteller 
+3. I would like to have increased patience with creating visuals and allow my selft to be creative without feeling rushed or unnecessary pressure 
 
 or...
 
@@ -27,6 +30,12 @@ or...
 - List item #3
 
 # Portfolio
+
+# Best of Breed (Visualizations) 
+
+# Assignment 3&4: Critique by Design
+
+# Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
