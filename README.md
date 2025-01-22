@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](https://vimmuyengwa.github.io/tswd-portfolio-vimbaiM-templates/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Welcome Message
 Welcome to my public portfolio for Telling Stories with Data!  Like a painter, this site will be my easel. I invite you to join the journey as I refine my data storytelling skills with the goal of bringing the skills gained into my next role. 
