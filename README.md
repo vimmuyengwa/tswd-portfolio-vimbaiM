@@ -17,7 +17,6 @@ My goal post graduation goal is to return to the Cloud FinOps Space. In a nutshe
 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
 1. I would like to begin sharpening my skillset with a number of tools as part of my experience including GitHub and Tableau
 2. I hope to be a better visualizer and storyteller 
