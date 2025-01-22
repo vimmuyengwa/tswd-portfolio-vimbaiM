@@ -38,4 +38,4 @@ Sketches, wireframes, storyboards.  User research and incorporating user feedbac
 Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
 
 ## Works cited
-Goranson, Chris. "Telling Stories with Data." Course No. 94-870, 94-470, Section A3, [Carnegie Mellon University], [Spring 2025].
+Goranson, Chris. Syllabus: "Telling Stories with Data." Course No. 94-870, 94-470, Section A3, [Carnegie Mellon University], [Spring 2025].
