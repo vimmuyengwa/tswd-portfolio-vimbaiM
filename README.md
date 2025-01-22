@@ -19,9 +19,11 @@ My goal post graduation is to return to the Cloud FinOps Space. In a nutshell, I
 
 ## Best of Breed (Visualizations) 
 
-## Sketching Exercise Overtime Improvement
+
+## Sketching Exercise Improvement
 ### Sketching Excercise Week 1
 ### Sketching Exercise Week 6
+
 
 ## Assignment 3&4
 
