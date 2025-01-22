@@ -30,7 +30,10 @@ My goal post graduation is to return to the Cloud FinOps Space. In a nutshell, I
 ## Final project
 The final project will demonstrate our skills in creating and presenting audience centered data visualizations effectively and concisely
 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+### Part I: 
+A project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
+### Part II: 
+Sketches, wireframes, storyboards.  User research and incorporating user feedback.
+### Part III: 
+Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
 
