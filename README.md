@@ -22,7 +22,7 @@ My goal post graduation is to return to the Cloud FinOps Space. In a nutshell, I
 
 ## Sketching Exercise Improvement
 ### Sketching Excercise Week 1
-### Sketching Exercise Week 6
+### Sketching Excercise Week 6
 
 
 ## Assignment 3&4
