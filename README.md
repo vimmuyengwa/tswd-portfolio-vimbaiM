@@ -26,6 +26,7 @@ My goal post graduation plan is to return to the Cloud FinOps Space. In a nutshe
 ### Sketching Excercise Week 1
 ### Sketching Excercise Week 6
 
+## Working with Tableau: Visualizing Government Debt
 
 ## Assignment 3&4
 
