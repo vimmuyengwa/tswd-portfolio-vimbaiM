@@ -12,8 +12,6 @@ Below is an interactive Tableau visualization embedded from Tableau Public:
 
 ### General Government Debt Visualization
 
-Below is an interactive Tableau visualization embedded from Tableau Public:
-
 <div class='tableauPlaceholder' id='viz1737863139620' style='position: relative'>
    <noscript>
       <a href='#'>
