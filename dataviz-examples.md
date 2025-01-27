@@ -84,7 +84,9 @@ Below is an interactive Tableau visualization showing the pandemic impact on the
    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-### gapminder_Demo
+### gapminder_Demo Visualization
+
+Below is an interactive Tableau visualization for the Gapminder Demo:
 
 <div class="tableauPlaceholder" id="viz1737995345162" style="position: relative; width: 100%; height: 0; padding-bottom: 75%; overflow: hidden;">
     <noscript>
@@ -100,4 +102,3 @@ Below is an interactive Tableau visualization showing the pandemic impact on the
     var iframeElement = divElement.getElementsByTagName('iframe')[0];
     iframeElement.style.height = (divElement.offsetWidth * 0.75) + 'px';  // Keep aspect ratio for responsiveness
 </script>
-
