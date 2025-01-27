@@ -4,7 +4,7 @@
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 ## Week 2: Data viz redesign! 
-[View the Urban Mobility Readiness Index chart](https://datawrapper.dwcdn.net/7FnQu/1/)
+<div style="min-height:1701px" id="datawrapper-vis-7FnQu"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/7FnQu/embed.js" charset="utf-8" data-target="#datawrapper-vis-7FnQu"></script><noscript><img src="https://datawrapper.dwcdn.net/7FnQu/full.png" alt="" /></noscript></div>
 
 ## Week 3: Tableau Visualization Example
 
