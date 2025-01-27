@@ -47,9 +47,7 @@ Below is an interactive Tableau visualization embedded from Tableau Public:
    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-### General Government Debt by GDP Percentage 
-
-## General Government Debt Comparison (By Country)
+###  General Government Debt Comparison (Pandemic Impact)
 
 Below is an interactive Tableau visualization showing the pandemic impact on the gross debt of the General Government as a percentage of GDP:
 
