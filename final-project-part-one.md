@@ -3,14 +3,14 @@
 # Outline
 
 **Final Project Selction**:
-For my final project, I have decided to create a professional website that demonstrates my interests in working in the Cloud FinOps space post-graduation. I have been a Certified FinOps Practitioner since 2022. The term FinOps is a play on words for DevOps and Financial Management. My goal for the website will showcases my unique skills and experience, and more importantly why Cloud cost optimization is a problem to be solved. 
+For my final project, I have decided to create a professional website that demonstrates my interests in working in the Cloud FinOps space post-graduation. I have been a Certified FinOps Practitioner since 2022. The term FinOps (a moniker) is a play on words for DevOps and Financial Management. My goal for the website will showcases my unique skills and experience, and more importantly why Cloud cost optimization is a problem to be solved. 
 
 For a bit of background, I was introduced to the Cloud while working for the Association of American Medical Colleges in an IT Finance and Vendor Management capacity. My mentor saw a passion in me for technology and learning and encouraged me to educate myself in all things cloud. I decided to become a certified AWS Cloud practitioner in 2021, and it helped kick off my technology career. My passion for cloud has continued as I recently acquired my Cloud Solution Architect and AI Practitioner certifications. 
 
 **Getting to the Why**:
 When I was introduced to the cloud back in 2021, cloud cost optimization roles were just beginning to form. As more and more organizations migrated to the cloud, it presented a conundrum due to the nature of variable costs in the cloud. Organizations began to realize that coupled with the ability to quickly innovate, the cloud also introduced cost complexities, which were exacerbated by wasted technology resources and overprovisioning of technology environments. In the last few years, Flexera has repeatedly reported Cloud cost optimization as a top cloud challenge and must have strategy for IT organization’s operating in the cloud (Flexera). 
 
-My call to action is that companies need strategic cloud cost management now. Gartner, a trusted Information technology report and insights firm has stated that  90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a staple is even more evident as the ever increasing popularity of the cloud coincides with the dawn of AI. This gives rise to the question of sustainbility and how technical resource optimization is a solution in curbing environmental damage. According to Raconteur via Green FinOps, "FinOps provides an ideal opportunity to identify ways of reducing CO2 emissions from cloud usage". 
+My call to action is that companies need strategic cloud cost management now. Gartner, a trusted Information technology report and insights firm has stated that  90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a staple is even more evident as the ever increasing popularity of the cloud coincides with the dawn of AI. This gives rise to the question of sustainbility and how technical resource optimization is a solution in curbing environmental damage. According to Raconteur via Green FinOps, "FinOps provides an ideal opportunity to identify ways of reducing CO2 emissions from cloud usage" (Raconteur). 
 
 Finally, the end goal for executing this project is to highlight the problem space and share how I can be part of the solution for a company looking to hire me. My last role in cloud consulting further affirms why I believe that cloud cost optimization is a must have strategy. I worked for a technology consulting company that assisted clients with migrating into azure from on premise environments. For a majority of clients, they wanted to take advantage of the innovation offered by the cloud. My role was to work with them to not only incorporate tactical considerations, but strategic ones as well especially because working in the cloud is an exercise in continuous improvement and integration. In order to share my expertise as Certiefied FinOps Practitioner, I want to infuse how my specific career journey traversing business, non-technical, and technical environments with concentrations in Finance and Vendor management make me a multifaceted asset. 
 
@@ -94,6 +94,9 @@ The number of spend in the billions says enough about why we should care. I want
 
 FinOps Foundation Job Board
 I want to trace weekly data up until the submission of the project to showcase job postings globally proving the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps is a global solution many organizations are seeking to adopt in cost optimization and sustainability strategies.  
+
+Raconteur and other Resources
+FinOps and its goals for resource optimization present a unique opportunity to be able to incorporate sustainbility practices into cloud usage. I will be specifically gathering additional data on FinOps positive impact on sustainability initatives. 
 
 | Name | URL | Description |
 |------|-----|-------------|
