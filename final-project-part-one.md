@@ -87,7 +87,6 @@ Text here...
 | FinOps Foundation Job Board|  [[https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](http://gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025)](https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States)| Sample List of Global FinOps Jobs Disclosed to FinOps Foundation |
 
 
-
 # Method and medium
 I plan on competing my final project by gather data from trusted sources to support the need for Cloud FinOps practitioners. 
  	I will use Tableau, and Datawrapper to build my graphical models. Miro to build a skills map to showcase my current and future skills. 
@@ -96,7 +95,6 @@ I plan on competing my final project by gather data from trusted sources to supp
 ## References
 
 Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved February 3, 2025, from https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws
-
 
 Flexera. (2024). State of the cloud report. Flexera. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
 
