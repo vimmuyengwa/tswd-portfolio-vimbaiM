@@ -2,10 +2,10 @@
 
 # Outline
 
-**Final Project Selction**
+**Final Project Selction**:
 For my final project, I have decided to create a professional website that demonstrates my interests in working in the Cloud FinOps space post-graduation. This website will showcases my unique skills and experience, and more importantly why Cloud cost optimization is a problem to be solved. I was introduced to the Cloud while working for the Association of American Medical Colleges in an IT Finance and Vendor Management capacity. My mentor saw a passion in me for technology and learning and encouraged me to educate myself in all things cloud. I decided to become a certified AWS Cloud practitioner in 2021, and it kicked off my technology career. My passion for cloud has continued as I recently acquired my Cloud Solution Architect and AI practitioner certifications. 
 
-**Getting to the Why** 
+**Getting to the Why**:
 When I was introduced to the cloud back in 2021, cloud cost optimization roles were just beginning to surge in popularity. As more and more organizations have migrated to the cloud, it has presented a conundrum due to the nature of variable costs in the cloud. Organizations have realized that the tradeoff for being able to quickly innovate is runaway cloud costs, which are exacerbated by wasted technology resources and overprovisioning. In the last few years, Flexera has repeatedly reported Cloud cost optimization as a top cloud challenge and must have strategy for IT organization’s operating in the cloud. 
 
 My call to action is that companies need strategic cloud cost management now. Gartner, a trusted Information technology report and insights firm has stated that  90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a staple is even more evident as the ever increasing popularity of the cloud coincides with the dawn of AI. 
