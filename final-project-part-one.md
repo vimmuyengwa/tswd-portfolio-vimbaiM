@@ -75,7 +75,17 @@ Text here...
 Text here...
 
 ## References
-_List any references you used here._
+Infotech: Take Control of Cloud Costs on AWS
+
+Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved February 3, 2025, from https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws
+
+
+Flexera. (2024). State of the cloud report. Flexera. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
+
+Gartner. (2024, November 19). Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025. Gartner. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
+
+FinOps Foundation. (n.d.). FinOps job board. FinOps Foundation. Retrieved February 3, 2025, from https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
