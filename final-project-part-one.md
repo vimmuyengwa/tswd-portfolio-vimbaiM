@@ -16,12 +16,12 @@ My Story Arch
 ![image](https://github.com/user-attachments/assets/6e2049b5-09fd-46e1-a0e5-ae9f7bc796a7)
 Created using SlideEgg template
 
-1.	Educate on cloud.  Brief history and What it is. Use Iphone analogy of cloud storage
+1.	Educate on cloud.  Brief history and What it is. Use Iphone analogy of cloud storage:
    
 a. Increase accessibility to audience through education 
 b. Cloud Benefits Examples: Power to Innovate, Ability to Pay as you Go, Cloud and Sustainability
 
-3.	The FinOps Problem and Solution
+3.	The FinOps Problem and Solution:
 a.	Rampant cloud costs 
 b.	Organizations practicing Finops/ Those planning on establishing a CCOE
 c.	Optimization and its benefits
