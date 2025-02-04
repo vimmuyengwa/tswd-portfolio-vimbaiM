@@ -18,7 +18,7 @@ In the end, I want to highlight the problem space and share how I can be part of
 
 My story Arch 
 
-1.	Educate on cloud.  Brief history and What is it? Use Iphone analogy of cloud storage
+1.	Educate on cloud.  Brief history and What it is. Use Iphone analogy of cloud storage
 a. Increase accessibility
 b.	Cloud Benefits: Power to Innovate. Ability to Pay as you Go. Cloud and Sustainability
 3.	The FinOps Problem and Solution 
