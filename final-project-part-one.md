@@ -65,7 +65,9 @@ Text here...
 |------|-----|-------------|
 | Leverage Gartners Cloud Strategy Approach     | https://www.gartner.com/en/infrastructure-and-it-operations-leaders/topics/cloud-strategy    |        Strategies for Managing the cloud for IT organizations   | 
 |   Infotech: Take Control of Cloud Costs on AWS     |  https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws   | Cost optimization in the cloud| 
-|  Flexera: State of the Cloud Report    |  https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit  | Report on Updated Best Practice and Organizational Benchmark |
+|  Flexera: State of the Cloud Report    |  https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit  | Report on Updated Best Practices and Organizational Benchmarks |
+|  Gartner Forecasts Worldwide Public Cloud End-User Spending to Total $723 Billion in 2025   |  [https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](http://gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025)  | Projected Growth of Global Cloud Spend |
+| FinOps Foundation Job Board|  [[https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](http://gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025)](https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States)| Sample List of Global FinOps Jobs Disclosed to FinOps Foundation |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
