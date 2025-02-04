@@ -66,6 +66,9 @@ c.	Optimization and its benefits
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+### Global Need for FinOps Practitioners
+<div style="min-height:546px" id="datawrapper-vis-RoQwz"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/RoQwz/embed.js" charset="utf-8" data-target="#datawrapper-vis-RoQwz"></script><noscript><img src="https://datawrapper.dwcdn.net/RoQwz/full.png" alt="" /></noscript></div>
+
 ### Experience Level
 
 ![image](https://github.com/user-attachments/assets/05cec15d-dfee-4485-96f9-7aca88bcb271)
