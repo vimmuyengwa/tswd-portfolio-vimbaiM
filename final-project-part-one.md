@@ -121,7 +121,7 @@ Gartner Forecasts Worldwide Public Cloud End-User Spending to Total $723 Billion
 The number of spend in the billions says enough about why we should care. I want to utilize this data provided in this article to further emphasize why FinOps practices should be a part of overall IT organization strategy 
 
 FinOps Foundation Job Board
-I want to trace weekly data up until the submission of the program. showcasing job postings globally that show the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps 
+I want to trace weekly data up until the submission of the program. showcasing job postings globally that show the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps is a global network and a problem many organizations are seeking to solve. 
 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
