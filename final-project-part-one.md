@@ -79,6 +79,8 @@ FinOps jobs are high in demand globally
 ![image](https://github.com/user-attachments/assets/05cec15d-dfee-4485-96f9-7aca88bcb271)
 Source: Miro 
 
+#### About Me Page (Sketch Professional Photo)
+Your trusted FinOps Practitioner
 ![ProfessionalPhoto](https://github.com/user-attachments/assets/7476c829-72b9-4c82-a7ed-676f2ead5c7c)
 
 # The data
