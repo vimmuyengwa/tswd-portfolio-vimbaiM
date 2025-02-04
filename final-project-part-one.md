@@ -129,6 +129,8 @@ FinOps Foundation. (n.d.). FinOps job board. FinOps Foundation. Retrieved Februa
 
 Miro. (n.d.). Skills Map. Miro. Retrieved February 3, 2025, from https://miro.com/app/board/uXjVLkLGZtU=/
 
+The future of FinOps: driving innovation, sustainability, and AI-driven cloud optimisation. (n.d.). Raconteur. Retrieved February 4, 2025, from https://www.raconteur.net/technology/the-future-of-finops-driving-innovation-sustainability-and-ai-driven-cloud-optimisation
+
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
