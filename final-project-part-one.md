@@ -12,7 +12,7 @@ When I was introduced to the cloud back in 2021, cloud roles were just beginning
 
 My call to action: Gartner, a trusted Information technology report and insights firm has stated that that 90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a mainstay is even more evident as the increased popularity of the cloud coincides with the dawn of AI. 
 
-In the end, I want to highlight the problem space and share how I can be part of the solution for a company looking to hire me. 
+Finally, the end goal for executing this project is to highlight the problem space and share how I can be part of the solution for a company looking to hire me. I want to infuse how my specific career journey traversing non-technical and technical environments with concentrations in Finance and vendor management would make me an asset.  
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
