@@ -17,15 +17,18 @@ My Story Arch
 Created using SlideEgg template
 
 1.	Educate on cloud.  Brief history and What it is. Use Iphone analogy of cloud storage
-a. Increase accessibility
-b.	Cloud Benefits: Power to Innovate. Ability to Pay as you Go. Cloud and Sustainability
-3.	The FinOps Problem and Solution 
+   
+a. Increase accessibility to audience through education 
+b. Cloud Benefits Examples: Power to Innovate, Ability to Pay as you Go, Cloud and Sustainability
+
+3.	The FinOps Problem and Solution
 a.	Rampant cloud costs 
 b.	Organizations practicing Finops/ Those planning on establishing a CCOE
 c.	Optimization and its benefits
+
 4.	My Expertise (Certifications, Coursework, Work Experience)  
 5.	Close out with Unique Experience/Career Journey (From Sociology -> Technology)
-6.	Call To Action
+5.	Call To Action
 
 ## Initial sketches
 
