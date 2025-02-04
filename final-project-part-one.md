@@ -74,14 +74,27 @@ Source: Miro
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+Leverage Gartner’s Cloud Strategy Approach:
+Gartner is a trusted source for evaluating vendors and new technologies used by companies for benchmark data. I would like to leverage the strategies for Managing cloud to support the need for cost optimization for a trusted source. 
+
+Infotech: Take Control of Cloud Costs on AWS: AWS is one of three major cloud providers including Azure and GCP. I want to use the insights from Infotech to support the who, what, when, and why as part of overall analysis of why organizations need to take control of cloud costs. 
+
+Flexera: State of the Cloud Report  
+This report by Flexera provides yearly insight into what organizations operating in the cloud are solving for in their organizations. For the eighth year in a row “optimizing existing use of cloud”  is the top initiative(Flexera). There is also data surrounding top metrics for how companies track how well they are doing through measuring cloud cost efficiency (Flexera). 
+
+Gartner Forecasts Worldwide Public Cloud End-User Spending to Total $723 Billion in 2025	
+The number of spend in the billions says enough about why we should care. I want to utilize this data provided in this article to further emphasize why FinOps practices should be a part of overall IT organization strategy 
+
+FinOps Foundation Job Board
+I want to trace weekly data up until the submission of the program. showcasing job postings globally that show the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps 
+
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
 | Leverage Gartners Cloud Strategy Approach     | https://www.gartner.com/en/infrastructure-and-it-operations-leaders/topics/cloud-strategy    |        Strategies for Managing the cloud for IT organizations   | 
-|   Infotech: Take Control of Cloud Costs on AWS     |  https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws   | Cost optimization in the cloud| 
+|   Infotech: Take Control of Cloud Costs on AWS  |  https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws   | Cost optimization in the cloud| 
 |  Flexera: State of the Cloud Report    |  https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit  | Report on Updated Best Practices and Organizational Benchmarks |
 |  Gartner Forecasts Worldwide Public Cloud End-User Spending to Total $723 Billion in 2025   |  [https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](http://gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025)  | Projected Growth of Global Cloud Spend |
 | FinOps Foundation Job Board|  [[https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](http://gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025)](https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States)| Sample List of Global FinOps Jobs Disclosed to FinOps Foundation |
