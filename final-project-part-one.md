@@ -75,7 +75,6 @@ Text here...
 Text here...
 
 ## References
-Infotech: Take Control of Cloud Costs on AWS
 
 Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved February 3, 2025, from https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws
 
