@@ -63,9 +63,9 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Leverage Gartners Cloud Strategy Approach     | https://www.gartner.com/en/infrastructure-and-it-operations-leaders/topics/cloud-strategy    |             | Strategies for Managing the cloud for IT organizations 
+| Leverage Gartners Cloud Strategy Approach     | https://www.gartner.com/en/infrastructure-and-it-operations-leaders/topics/cloud-strategy    |        Strategies for Managing the cloud for IT organizations   | 
 |   Infotech: Take Control of Cloud Costs on AWS     |  https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws   | Cost optimization in the cloud| 
-|  Flexera    |  https://www.infotech.com/free-trial-thank-you   |https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit|
+|  Flexera: State of the Cloud Report    |  https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit  | Report on Updated Best Practice and Organizational Benchmark |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
