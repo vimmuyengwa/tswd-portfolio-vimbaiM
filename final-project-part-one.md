@@ -4,19 +4,19 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-For my final project, I have decided to create a professional website that demonstrates my interests in returning to work in the Cloud FinOps space post-graduation. This website will showcases my skills and experience, and more importantly why Cloud cost optimization is a problem to be solved. I was introduced to the Cloud while working for the Association of American Medical Colleges in an IT Finance and Vendor Management capacity. My mentor saw a passion in me for technology and learning and told me to educate myself in all things cloud. I decided to become a certified AWS Cloud practitioner in 2021. Recently, I acquired my Cloud Solution Architect and AI practitioner certifications. 
 
-When I was introduced to the cloud back in 2021, cloud roles were just beginning to surge in popularity. As more and more organizations migrated to the cloud, it presented a conundrum due to the nature of variable costs in the cloud. Organizations soon realized that the tradeoff for being able to quickly innovate was runaway cloud costs. In the last few years, Flexera has repeatedly reported Cloud cost optimization as a top two must have strategy of  IT organization’s operating in the cloud. 
+**Final Project Selction**
+For my final project, I have decided to create a professional website that demonstrates my interests in working in the Cloud FinOps space post-graduation. This website will showcases my unique skills and experience, and more importantly why Cloud cost optimization is a problem to be solved. I was introduced to the Cloud while working for the Association of American Medical Colleges in an IT Finance and Vendor Management capacity. My mentor saw a passion in me for technology and learning and encouraged me to educate myself in all things cloud. I decided to become a certified AWS Cloud practitioner in 2021, and it kicked off my technology career. My passion for cloud has continued as I recently acquired my Cloud Solution Architect and AI practitioner certifications. 
 
-My call to action: Gartner, a trusted Information technology report and insights firm has stated that that 90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a mainstay is even more evident as the increased popularity of the cloud coincides with the dawn of AI. 
+**Getting to the Why** 
+When I was introduced to the cloud back in 2021, cloud cost optimization roles were just beginning to surge in popularity. As more and more organizations have migrated to the cloud, it has presented a conundrum due to the nature of variable costs in the cloud. Organizations have realized that the tradeoff for being able to quickly innovate is runaway cloud costs, which are exacerbated by wasted technology resources and overprovisioning. In the last few years, Flexera has repeatedly reported Cloud cost optimization as a top cloud challenge and must have strategy for IT organization’s operating in the cloud. 
 
-Finally, the end goal for executing this project is to highlight the problem space and share how I can be part of the solution for a company looking to hire me. I want to infuse how my specific career journey traversing non-technical and technical environments with concentrations in Finance and vendor management would make me an asset.  
+My call to action is that companies need strategic cloud cost management now. Gartner, a trusted Information technology report and insights firm has stated that  90% of organizations will adopt hybrid Cloud through 2027 estimating a Total $723 billion end-user cloud spend in 2025 alone (Gartner). The cloud being a staple is even more evident as the increased popularity of the cloud coincides with the dawn of AI. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
+Finally, the end goal for executing this project is to highlight the problem space and share how I can be part of the solution for a company looking to hire me. In order to share my expertise, I want to infuse how my specific career journey traversing business, non-technical, and technical environments with concentrations in Finance and vendor management makes me a multifaceted asset.  
 
-My story Arch 
+My Story Arch 
+![image](https://github.com/user-attachments/assets/6e2049b5-09fd-46e1-a0e5-ae9f7bc796a7)
 
 1.	Educate on cloud.  Brief history and What it is. Use Iphone analogy of cloud storage
 a. Increase accessibility
@@ -25,12 +25,11 @@ b.	Cloud Benefits: Power to Innovate. Ability to Pay as you Go. Cloud and Sustai
 a.	Rampant cloud costs 
 b.	Organizations practicing Finops/ Those planning on establishing a CCOE
 c.	Optimization and its benefits
-4.	Call To Action
-5.	My Expertise (Certifications, Coursework, Work Experience)  
-6.	Close out with Unique Experience/Career Journey (From Sociology -> Technology) 
+4.	My Expertise (Certifications, Coursework, Work Experience)  
+5.	Close out with Unique Experience/Career Journey (From Sociology -> Technology)
+6.	Call To Action
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 ### Gartner Cloud End-User Projected Spending (in Billions) 
 
@@ -68,7 +67,9 @@ c.	Optimization and its benefits
 
 
 ### Global Need for FinOps Practitioners
+FinOps jobs are high in demand globally
 <div style="min-height:546px" id="datawrapper-vis-RoQwz"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/RoQwz/embed.js" charset="utf-8" data-target="#datawrapper-vis-RoQwz"></script><noscript><img src="https://datawrapper.dwcdn.net/RoQwz/full.png" alt="" /></noscript></div>
+
 
 ### Experience Level
 
@@ -76,10 +77,9 @@ c.	Optimization and its benefits
 Source: Miro 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Leverage Gartner’s Cloud Strategy Approach:
-Gartner is a trusted source for evaluating vendors and new technologies used by companies for benchmark data. I would like to leverage the strategies for Managing cloud to support the need for cost optimization for a trusted source. 
+Gartner’s Cloud Strategy Approach Data:
+Gartner is a trusted source for evaluating vendors and new technologies used by companies to benchmark data. I would like to leverage the strategies for Managing the cloud to support the need for cost optimization. They report frequently on how IT organizations should operate in a cloud environment.
 
 Infotech: Take Control of Cloud Costs on AWS: AWS is one of three major cloud providers including Azure and GCP. I want to use the insights from Infotech to support the who, what, when, and why as part of overall analysis of why organizations need to take control of cloud costs. 
 
@@ -87,13 +87,10 @@ Flexera: State of the Cloud Report
 This report by Flexera provides yearly insight into what organizations operating in the cloud are solving for in their organizations. For the eighth year in a row “optimizing existing use of cloud”  is the top initiative(Flexera). There is also data surrounding top metrics for how companies track how well they are doing through measuring cloud cost efficiency (Flexera). 
 
 Gartner Forecasts Worldwide Public Cloud End-User Spending to Total $723 Billion in 2025	
-The number of spend in the billions says enough about why we should care. I want to utilize this data provided in this article to further emphasize why FinOps practices should be a part of overall IT organization strategy 
+The number of spend in the billions says enough about why we should care. I want to utilize this data provided in this article to further emphasize why FinOps practices should be a part of overall IT organization strategy. With this knowledge from Gartner, most organizations which we work for will in some capacity operate with cloud.  
 
 FinOps Foundation Job Board
-I want to trace weekly data up until the submission of the program. showcasing job postings globally that show the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps is a global network and a problem many organizations are seeking to solve. 
-
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I want to trace weekly data up until the submission of the project to showcase job postings globally proving the importance of FinOps both domestically in the U.S. and on the global stage. I would like to create some type of visualization with this data showing how FinOps is a global solution many organizations are seeking to adopt in cost optimization strategies.  
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -105,7 +102,7 @@ I want to trace weekly data up until the submission of the program. showcasing j
 
 
 # Method and medium
-I plan on competing my final project by gather data from trusted sources to support the need for Cloud FinOps practitioners. 
+I plan on competing my final project by gathering data from trusted sources to support the need for Cloud FinOps practitioners. 
  	I will use Tableau, and Datawrapper to build my graphical models. Miro to build a skills map to showcase my current and future skills. 
 	Python/ Jupyter notebooks to showcase my skills in Timeseries Forecasting
 
