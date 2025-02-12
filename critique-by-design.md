@@ -11,8 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/e100d7db-b950-4ee1-b3de-cbf7484abe59" />
-
+<div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
