@@ -10,13 +10,14 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 ## Step one: the visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+<div style="min-height:358px" id="datawrapper-vis-F0Vji"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/F0Vji/embed.js" charset="utf-8" data-target="#datawrapper-vis-F0Vji"></script><noscript><img src="https://datawrapper.dwcdn.net/F0Vji/full.png" alt="" /></noscript></div>
 
-<div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+<div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 
 ## Step four: Test the solution
 
