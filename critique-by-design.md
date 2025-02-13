@@ -66,7 +66,7 @@ Results:
 Score Measurement question: Is the score out of 10? What is the maximum possible score?
 Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out              | 
 Include how many people participated in the survey            |
-| **Who do you think is the intended audience for this?**         |General feedback: the world, public health professional|             |
+| **Who do you think is the intended audience for this?**         |General feedback: the world, public health professional, United States|             |
 |**Is there anything you would change or do differently?**          |
 Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.            |Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically             |
 | Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast         |             |             |
@@ -89,13 +89,18 @@ World Happiness Index Chart: Building a Solution
 Given the global nature of the topic, I initially turned to a world map to represent my data. However, I found that the global map didn't effectively highlight the contrasts I wanted to focus on. After receiving feedback from the professor, I agreed that larger countries often dominate the map, which can obscure the underlying ratings and make the differences less clear. For this iteration I used the data of all 143 countries. 
 
 <div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
-Created with Raw Graphs
-![image](https://github.com/user-attachments/assets/4030b9a5-c81b-4119-8c09-ee8d80ba4481)
 
 
 For my next graph iterations, I decided to not only look at a single dataset but also analyze the World Happiness Index across 5 years. This involved extracting data from 5 different datasets and consolidating it into a file with the current top 10 rankings of 2024 countries. I had to manually review the data using pivot tables, then populate it into a consolidated Excel sheet, before loading it into Datawrapper and Tableau. After this process, I began to experiment with several different methods. I utilized a new tool the professor introduced me to with raw graphs, where I observed a very interesting trend using a time series forecasting graph. This tool was very difficult for me to use and less intuitive. However, I found something even more interesting than just the U.S. dataset: World happiness is decreasing over time for the majority of the top 10 countries, including the U.S.! The only countries that did not show lower happiness than in 2020 were Israel and Iceland. The story I thought I could tell here was how happiness is decreasing over time.
 
+Created with Raw Graphs
+![image](https://github.com/user-attachments/assets/cc667c85-3fda-4c4c-88b1-704f92142155)
+
+For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors would engender more questions such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise. 
+
 <div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
+
+Evaluating my feedback from my peers, I incorporated Feedback about the color contrast for the different years. Doing away from the original light blue to take on bolder brown and red gradients. I also called attention to the U.S. ranking in the footnotes along with the explanation of the ranking as suggested. I made sure the labels were called out specifically for each time per feedback and kept true to the original visualization that left fewer questions for my audience. Based on reaction to explore specific interest I thought this would garner the same interest from other US based folks. Taking inspiration from the Tableau reference chart "World GDP through time" I added my own spin to it in evaluating the United States specifically for what I believe to be a more concise chart. 
 
 <div class='tableauPlaceholder' id='viz1739406886521' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739406886521');                    
@@ -117,7 +122,7 @@ Berinato, S. (2023). Good charts: The HBR guide to making smarter, more persuasi
 
 Peck, E. (2019, May 20). Data is personal. What we learned from 42 interviews in rural America. Multiple Views: Visualization Research Explained. https://www.medium.com
 
-
+Tableau Software, Inc. (2025). Tableau reference - chart overviews [PDF]. Retrieved from https://canvas.cmu.edu/courses/45739/files/12197445?module_item_id=6045478#:~:text=Files-,Tableau%20reference%20%2D%20chart%20overviews.pdf,-Spring%202025
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
