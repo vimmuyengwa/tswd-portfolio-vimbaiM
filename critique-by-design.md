@@ -96,11 +96,7 @@ For my next graph iterations, I decided to not only look at a single dataset but
 Created with Raw Graphs
 ![image](https://github.com/user-attachments/assets/cc667c85-3fda-4c4c-88b1-704f92142155)
 
-For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors would engender more questions such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise. 
-
-<div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
-
-Evaluating my feedback from my peers, I incorporated Feedback about the color contrast for the different years. Doing away from the original light blue to take on bolder brown and red gradients. I also called attention to the U.S. ranking in the footnotes along with the explanation of the ranking as suggested. I made sure the labels were called out specifically for each time per feedback and kept true to the original visualization that left fewer questions for my audience. Based on reaction to explore specific interest I thought this would garner the same interest from other US based folks. Taking inspiration from the Tableau reference chart "World GDP through time" I added my own spin to it in evaluating the United States specifically for what I believe to be a more concise chart. 
+**Another graph showing decreasing happiness over time for countries in the top 10 along with the United States**
 
 <div class='tableauPlaceholder' id='viz1739406886521' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739406886521');                    
@@ -110,6 +106,12 @@ Evaluating my feedback from my peers, I incorporated Feedback about the color co
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors would engender more questions such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise. 
+
+<div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
+
+Evaluating my feedback from my peers, I incorporated Feedback about the color contrast for the different years. Doing away from the original light blue to take on bolder brown and red gradients. I also called attention to the U.S. ranking in the footnotes along with the explanation of the ranking as suggested. I made sure the labels were called out specifically for each time per feedback and kept true to the original visualization that left fewer questions for my audience. Based on reaction to explore specific interest I thought this would garner the same interest from other US based folks. Taking inspiration from the Tableau reference chart "World GDP through time" I added my own spin to it in evaluating the United States specifically for what I believe to be a more concise chart. 
 
 <div style="min-height:380px" id="datawrapper-vis-93uqZ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93uqZ/embed.js" charset="utf-8" data-target="#datawrapper-vis-93uqZ"></script><noscript><img src="https://datawrapper.dwcdn.net/93uqZ/full.png" alt="" /></noscript></div>
 
@@ -123,6 +125,12 @@ Berinato, S. (2023). Good charts: The HBR guide to making smarter, more persuasi
 Peck, E. (2019, May 20). Data is personal. What we learned from 42 interviews in rural America. Multiple Views: Visualization Research Explained. https://www.medium.com
 
 Tableau Software, Inc. (2025). Tableau reference - chart overviews [PDF]. Retrieved from https://canvas.cmu.edu/courses/45739/files/12197445?module_item_id=6045478#:~:text=Files-,Tableau%20reference%20%2D%20chart%20overviews.pdf,-Spring%202025
+
+Trina Chi. (n.d.). Chapter 15: Data design builds. In Data design builds. Retrieved January 26, 2025, from https://trinachi.github.io/data-design-builds/ch15.html
+
+Datawrapper. (n.d.). What to consider when choosing colors for data visualization. Datawrapper Academy. Retrieved January 26, 2025, from https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization
+![image](https://github.com/user-attachments/assets/d2d87ff5-2435-442b-9334-b5a8b0a72236)
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
