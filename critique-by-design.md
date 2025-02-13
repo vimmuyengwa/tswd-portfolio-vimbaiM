@@ -2,9 +2,7 @@
 
 # The World Happiness Report  
 
-For my data source I chose to analyze the World Happiness Report.  When I first encountered the chart, I was skeptical about how happiness could be measured because it can be highly subjective. Yet alone across 143 countries. Much like the rural participants in the Data is Personal study, my perceptions of how much I could trust this data were influenced by the source once I did some digging. In fact, the research was a collaboration between Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the editorial board of the World Happiness Report. 
-This made me reflect on how our interpretation and trust of data is often shaped by our inherent biases particularly after seeing these exemplified in the rural research study. The article emphasized how people tend to interpret data by looking for connections and patterns that resonate with their own perspectives. This highlighted how the way we process information can be deeply influenced by our individual leanings and preconceptions.
-
+For my data visualization critizue, I chose to analyze the World Happiness Report which collects happiness data for approximately 143 countries in a 3 year period. The report is updated annually. 
 
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -13,12 +11,13 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 Original data visualization:
 
 <div class='tableauPlaceholder' id='viz1739401077538' style='position: relative'><noscript><a href='https:&#47;&#47;worldhappiness.report&#47;'><img alt='World Happiness Report 2024Figure 2.1: Country Rankings by Life Evaluations in 2021-2023 _________NotesTabs 1 &amp; 2: The 95% confidence interval is shown in the grey-shaded area at the end of each life evaluation bar.Tab 2: The sub-bars have no impact on the total score reported for each country. Instead, they are a way of explaining the implications of the model estimated in Table 2.1. The few countries that have empty bars do not have sufficient information for the calculation of portions explained by individual factors. These countries still have their overall scores, though, which are based entirely on survey responses, and are independent of our efforts to explore the underlying support factors of happiness. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2024Draft&#47;Figure2_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1739401077538');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 Source: World Hapiness Organization 
+
+For my data source I chose to analyze the World Happiness Report. I chose this visualization out of curiosity and intrigue. When I first encountered the chart, I was skeptical about how happiness could be measured because it can be highly subjective. Yet alone across 143 countries. Much like the rural participants in the Data is Personal study, my perceptions of how much I could trust this data were influenced by the source once I did some digging. In fact, the research was a collaboration between Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the editorial board of the World Happiness Report. 
+This made me reflect on how our interpretation and trust of data is often shaped by our inherent biases particularly after seeing these exemplified in the rural research study. The article emphasized how people tend to interpret data by looking for connections and patterns that resonate with their own perspectives. This highlighted how the way we process information can be deeply influenced by our individual leanings and preconceptions.
 
 <div style="min-height:358px" id="datawrapper-vis-F0Vji"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/F0Vji/embed.js" charset="utf-8" data-target="#datawrapper-vis-F0Vji"></script><noscript><img src="https://datawrapper.dwcdn.net/F0Vji/full.png" alt="" /></noscript></div>
 
@@ -35,7 +34,7 @@ Overall, Happiness is difficult to measure because it’s highly subjective. Thi
 The chart is generally understandable, but it starts using 95% CI statistical language that might confuse some readers. As noted in the article by Evan Peck on “Data is Personal”, charts should be accessible to all audiences, regardless of their education level. The use of terms like “life evaluations” could be clearer—replacing it with “contributing factors” might be more intuitive for a reader. Also, dystopia and residual is also hard for me to conceptualize as a reader. 
 
 **Truthfulness:**
-The visualization is accurate. The author clarifies that the happiness measure is based on surveys and does not account for other underlying factors. It's important to note that the data covers a 3-year period and is updated annually.
+The visualization is mostly accurate. The author clarifies that the happiness measure is based on surveys and does not account for other underlying factors. It's important to note that the data covers a 3-year period and is updated annually.
 
 **Intuitiveness:**
 The chart communicates the main idea well, but some finer details, like the Confidence Interval, are not intuitive. As Peck points out, chart accessibility should not be limited to highly educated audiences.
@@ -56,43 +55,46 @@ The chart offers insights but could be more engaging if simplified. The factors 
 
 For my first iteration, I focused on creating a simple, streamlined chart for group review, extracting data on happiness and the Index for the top 10 countries along with the United States. Throughout the creation process, I kept the principle of simplicity in mind, aiming to present the information as simple as possible. I wanted to ensure that the chart was easily digestible and didn't overwhelm the viewer as the original chart did. After sharing it with the group, the initial peer reviews indicated that the chart effectively provided a clear and concise summary of the data. ![image](https://github.com/user-attachments/assets/f26eefb7-abf0-4a72-973b-282ed125bba2)
 
-<div class='tableauPlaceholder' id='viz1739406886521' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1739406886521');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
-
-<div class='tableauPlaceholder' id='viz1739406981611' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1739406981611');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
 
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+The below is the template I followed to ask questions. 
 
 - Can you tell me what you think this is?
+Consensus: This is  ahorizontal bar chart.
 
 - Can you describe to me what this is telling you?
+Consensus: This shows compares happiness in the United States with the world
 
 - Is there anything you find surprising or confusing?
+  **Student 1 Feedback:** 
+Score Measurement question: Is the score out of 10? What is the maximum possible score?
+Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out 
+
+**Student 2 Feedback***
+Include how many people participated in the survey
 
 - Who do you think is the intended audience for this?
+  General feedback: the world, public health professional. 
 
 - Is there anything you would change or do differently?
+**Student 3 Feedback**
+Suggestions for Data Visualization:
+Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
+Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically
+Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
 
-Results: 
+Results:  
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+**Student 3**
+Suggestions for Data Visualization:
+Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
+Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically
+Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
+
+**Other observations,**: similar to when I analyzed the data, all students got excited about analyzing their specific home countries. Of the three, there were two countries represented and each was curious to learn how their country stacked up. This proved my original theory that the audience would be interested in the data specific to them or in this case their home country . 
+
 
 
 | Question | Interview 1 | Interview 2 |
@@ -108,6 +110,27 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+<div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
+
+<div class='tableauPlaceholder' id='viz1739406886521' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1739406886521');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
+<div class='tableauPlaceholder' id='viz1739406981611' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1739406981611');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## References
 _List any references you used here._
