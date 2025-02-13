@@ -112,7 +112,7 @@ For perspective, I also thought it was important to look at the contributing fac
 
 <div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
 
-Evaluating my feedback from my peers, I incorporated Feedback about the color contrast for the different years. Doing away from the original light blue to take on bolder brown and red gradients. I also called attention to the U.S. ranking in the footnotes along with the explanation of the ranking as suggested. I made sure the labels were called out specifically for each time per feedback and kept true to the original visualization that left fewer questions for my audience. Based on reaction to explore specific interest I thought this would garner the same interest from other US based folks. Taking inspiration from the Tableau reference chart "World GDP through time" I added my own spin to it in evaluating the United States specifically for what I believe to be a more concise chart. 
+Evaluating the feedback from my peers, I incorporated suggestions about the color contrast for the different years, moving away from the original light blue in favor of bolder brown and red gradients. I also highlighted the U.S. ranking in the footnotes, along with an explanation of the ranking as recommended. I made sure the labels were clearly called out for each time period, as suggested, and stayed true to the original visualization to minimize questions from my audience. Based on the reaction to exploring specific countries relevant to my peers, I believed this approach would also engage other U.S.-based viewers. Taking inspiration from the Tableau reference chart "World GDP Through Time," I added my own spin to focus specifically on the United States, creating what I believe to be a more concise chart.
 
 <div style="min-height:380px" id="datawrapper-vis-93uqZ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93uqZ/embed.js" charset="utf-8" data-target="#datawrapper-vis-93uqZ"></script><noscript><img src="https://datawrapper.dwcdn.net/93uqZ/full.png" alt="" /></noscript></div>
 
@@ -130,7 +130,6 @@ Tableau Software, Inc. (2025). Tableau reference - chart overviews [PDF]. Retrie
 Trina Chi. (n.d.). Chapter 15: Data design builds. In Data design builds. Retrieved January 26, 2025, from https://trinachi.github.io/data-design-builds/ch15.html
 
 Datawrapper. (n.d.). What to consider when choosing colors for data visualization. Datawrapper Academy. Retrieved January 26, 2025, from https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization
-![image](https://github.com/user-attachments/assets/d2d87ff5-2435-442b-9334-b5a8b0a72236)
 
 
 ## AI acknowledgements
