@@ -107,7 +107,8 @@ Created with Raw Graphs
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors would engender more questions such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise. 
+
+For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise.
 
 <div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
 
