@@ -43,7 +43,7 @@ The chart offers insights but could be more engaging if simplified. The factors 
 
 ## Step three: Sketch a solution
 
-![image](https://github.com/user-attachments/assets/4030b9a5-c81b-4119-8c09-ee8d80ba4481)
+<div style="min-height:358px" id="datawrapper-vis-F0Vji"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/F0Vji/embed.js" charset="utf-8" data-target="#datawrapper-vis-F0Vji"></script><noscript><img src="https://datawrapper.dwcdn.net/F0Vji/full.png" alt="" /></noscript></div>
 
 For my first iteration, I focused on creating a simple, streamlined chart for group review, extracting data on happiness and the Index for the top 10 countries along with the United States. Throughout the creation process, I kept the principle of simplicity in mind, aiming to present the information as simple as possible. I wanted to ensure that the chart was easily digestible and didn't overwhelm the viewer as the original chart did. After sharing it with the group, the initial peer reviews indicated that the chart effectively provided a clear and concise summary of the data. ![image](https://github.com/user-attachments/assets/f26eefb7-abf0-4a72-973b-282ed125bba2)
 
@@ -104,12 +104,13 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 World Happiness Index Chart: Building a Solution
-<div style="min-height:358px" id="datawrapper-vis-F0Vji"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/F0Vji/embed.js" charset="utf-8" data-target="#datawrapper-vis-F0Vji"></script><noscript><img src="https://datawrapper.dwcdn.net/F0Vji/full.png" alt="" /></noscript></div>
+
 
 Given the global nature of the topic, I initially turned to a world map to represent my data. However, I found that the global map didn't effectively highlight the contrasts I wanted to focus on. After receiving feedback from the professor, I agreed that larger countries often dominate the map, which can obscure the underlying ratings and make the differences less clear. For this iteration I used the data of all 143 countries. 
 
 <div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 Created with Raw Graphs
+![image](https://github.com/user-attachments/assets/4030b9a5-c81b-4119-8c09-ee8d80ba4481)
 
 For my next graph iterations, I decided to not only look at a single dataset but also analyze the World Happiness Index across 5 years. This involved extracting data from 5 different datasets and consolidating it into a file with the current top 10 rankings of 2024 countries. I had to manually review the data using pivot tables, then populate it into a consolidated Excel sheet, before loading it into Datawrapper and Tableau. After this process, I began to experiment with several different methods. I utilized a new tool the professor introduced me to with raw graphs, where I observed a very interesting trend using a time series forecasting graph. This tool was very difficult for me to use and less intuitive. However, I found something even more interesting than just the U.S. dataset: World happiness is decreasing over time for the majority of the top 10 countries, including the U.S.! The only countries that did not show lower happiness than in 2020 were Israel and Iceland. The story I thought I could tell here was how happiness is decreasing over time.
 
