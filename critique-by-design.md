@@ -15,8 +15,9 @@ Original data visualization:
 
 Source: World Happiness Organization 
 
-For my data source I chose to analyze the World Happiness Report. I chose this visualization out of curiosity and intrigue. When I first encountered the chart, I was skeptical about how happiness could be measured because it can be highly subjective. Yet alone across 143 countries. Much like the rural participants in the Data is Personal study, my perceptions of how much I could trust this data were influenced by the source once I did some digging. In fact, the research was a collaboration between Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the editorial board of the World Happiness Report. 
-This made me reflect on how our interpretation and trust of data is often shaped by our inherent biases particularly after seeing these exemplified in the rural research study. The article emphasized how people tend to interpret data by looking for connections and patterns that resonate with their own perspectives. This highlighted how the way we process information can be deeply influenced by our individual leanings and preconceptions.
+For my data source, I chose to analyze the World Happiness Report. I selected this visualization out of curiosity and intrigue. When I first encountered the chart, I was skeptical about how happiness could be measured, as it can be highly subjective—especially across 143 countries. Much like the rural participants in the Data is Personal study, my perceptions of how much I could trust this data were influenced by the source once I did some digging. In fact, the research was a collaboration between Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the editorial board of the World Happiness Report.
+
+This made me reflect on how our interpretation and trust of data are often shaped by our inherent biases, particularly after seeing these exemplified in the rural research study. The article emphasized how people tend to interpret data by looking for connections and patterns that resonate with their own perspectives. This highlighted how the way we process information can be deeply influenced by our individual leanings and preconceived notions 
 
 ## Step two: the critique
 
