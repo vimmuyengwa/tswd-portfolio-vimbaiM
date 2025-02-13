@@ -50,9 +50,6 @@ For my first iteration, I focused on creating a simple, streamlined chart for gr
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-The below is the template I followed to ask questions. 
-
 **- Can you tell me what you think this is?**
 Consensus: This is  ahorizontal bar chart.
 
@@ -80,19 +77,24 @@ Label Placement: Move data labels away from the y-axis and place them outside th
 
 Results:  
 
-**Other observations,**: similar to when I analyzed the data, all students got excited about analyzing their specific home countries. Of the three, there were two countries represented and each was curious to learn how their country stacked up. This proved my original theory that the audience would be interested in the data specific to them or in this case their home country . 
 
 
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
+|  **- Can you tell me what you think this is?**        |     Consensus: This is  ahorizontal bar chart.        |             |
+| **- Can you describe to me what this is telling you?**         |             |             |
 |          |             |             |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Suggestions for Data Visualization:
+Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
+
+Highlighting U.S. Ranking: Call attention to the U.S. ranking specifically.
+Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
+
+**Other observations,**: similar to when I analyzed the data, all students got excited about analyzing their specific home countries. Of the three, there were two countries represented and each was curious to learn how their country stacked up. This proved my original theory that the audience would be interested in the data specific to them or in this case their home country . 
 
 ## Step five: build the solution
 
