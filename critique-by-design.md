@@ -22,14 +22,39 @@ Source: World Hapiness Organization
 
 <div style="min-height:358px" id="datawrapper-vis-F0Vji"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/F0Vji/embed.js" charset="utf-8" data-target="#datawrapper-vis-F0Vji"></script><noscript><img src="https://datawrapper.dwcdn.net/F0Vji/full.png" alt="" /></noscript></div>
 
-
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+Considering userfulness, perceptability, truthfulness, intuitiveness, and engagement, here is a summary of my thoughts 
+
+**Usefulness:**
+I ranked the chart overall a 7. I think it was clear that this was measuring overall happiness with rankins shown by descending order of countries shown. As someone living in the United states and a native of Zimbabwe, my immediate thought was researching how these two countries ranked 
+
+Overall, Happiness is difficult to measure because it’s highly subjective. This article looks at the overall sociological measure of happiness at the country level. As someone who studied sociology, iam particularly interested in the life evaluations. My question becomes are the factors highlighted such as dystopia and residual, perceptions of corruption, generosity, freedom to make life choices, healthy life expectancy, social support, and gdp per capita really the only factors to measure. From my vantage point I can see how life expectancy, social support, and gdp are more measurable that the other factors called out. 
+
+**Perceptibility:**
+The chart is generally understandable, but it starts using 95% CI statistical language that might confuse some readers. As noted in the article by Evan Peck on “Data is Personal”, charts should be accessible to all audiences, regardless of their education level. The use of terms like “life evaluations” could be clearer—replacing it with “contributing factors” might be more intuitive for a reader. Also, dystopia and residual is also hard for me to conceptualize as a reader. 
+
+**Truthfulness:**
+The visualization is accurate. The author clarifies that the happiness measure is based on surveys and does not account for other underlying factors. It's important to note that the data covers a 3-year period and is updated annually.
+
+**Intuitiveness:**
+The chart communicates the main idea well, but some finer details, like the Confidence Interval, are not intuitive. As Peck points out, chart accessibility should not be limited to highly educated audiences.
+
+**Aesthetics:**
+The chart is somewhat simple in its use of horizontal bar. I would not describe it as visually striking. In Crafting for Clarity (Chapter 2), simplicity is emphasized, and I think reducing the number of countries displayed would improve the chart’s clarity. Focusing on the top 8 countries for comparison to the U.S. would make it more relatable and engaging for readers. This aligns with Peck’s recommendation to make charts relevant to the audience.
+
+For my use case I will use the United States, which is ranked 23rd overall for countries. My current working title is "How the United States Compares to the Happiest Countries." This allows for a more focused and relevant comparison. Referencing the “Data is personal” article, Evan Peck suggests, data visualizations should be relevant to the audience, and narrowing the scope to include fewer countries would make the chart more personal and engaging for U.S. readers, helping them better connect with the information (Peck, E).
+
+**Engagement:**
+The chart offers insights but could be more engaging if simplified. The factors are clear, but the description and jargon is too long for a chart, and is geared towards a very specific audience. Making it more concise would improve its impact and encourage sharing and discussion.
+
 
 ## Step three: Sketch a solution
 <div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 
 ![image](https://github.com/user-attachments/assets/4030b9a5-c81b-4119-8c09-ee8d80ba4481)
+
+For my first iteration, I focused on creating a simple, streamlined chart for group review, extracting data on happiness and the Index for the top 10 countries along with the United States. Throughout the creation process, I kept the principle of simplicity in mind, aiming to present the information as simple as possible. I wanted to ensure that the chart was easily digestible and didn't overwhelm the viewer as the original chart did. After sharing it with the group, the initial peer reviews indicated that the chart effectively provided a clear and concise summary of the data. ![image](https://github.com/user-attachments/assets/f26eefb7-abf0-4a72-973b-282ed125bba2)
 
 <div class='tableauPlaceholder' id='viz1739406886521' style='position: relative'><noscript><a href='#'><img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorldHappinessDecline&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessDecline&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739406886521');                    
