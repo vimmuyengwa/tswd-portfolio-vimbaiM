@@ -50,35 +50,7 @@ For my first iteration, I focused on creating a simple, streamlined chart for gr
 
 ## Step four: Test the solution
 
-**- Can you tell me what you think this is?**
-Consensus: This is  ahorizontal bar chart.
-
-**- Can you describe to me what this is telling you?**
-Consensus: This shows compares happiness in the United States with the world
-
-**- Is there anything you find surprising or confusing?**
-  
-  **Student 1 Feedback:** 
-Score Measurement question: Is the score out of 10? What is the maximum possible score?
-Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out 
-
-**Student 2 Feedback***
-Include how many people participated in the survey
-
-**- Who do you think is the intended audience for this?**
-  General feedback: the world, public health professional. 
-
-**Is there anything you would change or do differently?**
-**Student 3 Feedback**
-Suggestions for Data Visualization:
-Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
-Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically
-Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
-
 Results:  
-
-
-
 
 | Question |   |   |
 |----------|-------------|-------------|
@@ -88,10 +60,12 @@ Results:
 Score Measurement question: Is the score out of 10? What is the maximum possible score?
 Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out              | 
 Include how many people participated in the survey            |
-| **Who do you think is the intended audience for this?**         |             |             |
+| **Who do you think is the intended audience for this?**         |General feedback: the world, public health professional|             |
 |**Is there anything you would change or do differently?**          |
 Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.            |Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically             |
 | Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast         |             |             |
+
+
 Synthesis: 
 
 Suggestions for Data Visualization:
