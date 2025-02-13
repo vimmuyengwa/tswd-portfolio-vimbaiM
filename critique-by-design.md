@@ -13,6 +13,18 @@ Original data visualization:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<div class='tableauPlaceholder' id='viz1739415136221' style='position: relative; width: 100%; height: 75vh;'>
+  <noscript>
+    <a href='https://worldhappiness.report/'>
+      <img alt='World Happiness Report 2024Figure 2.1: Country Rankings by Life Evaluations in 2021-2023' src='https://public.tableau.com/static/images/20/2024Draft/Figure2_1/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <!-- Tableau Embed via iframe -->
+  <iframe src="https://public.tableau.com/views/2024Draft/Figure2_1?:embed=y&:display_count=yes&:showVizHome=no"
+          width="100%" height="100%" style="border:none;">
+  </iframe>
+</div>
+
 Source: World Happiness Organization 
 
 For my data source, I chose to analyze the World Happiness Report. I selected this visualization out of curiosity and intrigue. When I first encountered the chart, I was skeptical about how happiness could be measured, as it can be highly subjective—especially across 143 countries. Much like the rural participants in the Data is Personal study, my perceptions of how much I could trust this data were influenced by the source once I did some digging. In fact, the research was a collaboration between Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the editorial board of the World Happiness Report.
