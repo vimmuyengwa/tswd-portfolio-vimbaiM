@@ -2,7 +2,7 @@
 
 # The World Happiness Report  
 
-For my data visualization critizue, I chose to analyze the World Happiness Report which collects happiness data for approximately 143 countries in a 3 year period. The report is updated annually. 
+For my data visualization critique, I chose to analyze the World Happiness Report which collects happiness data for approximately 143 countries in a 3 year period. The report is updated annually. 
 
 ## Step one: the visualization
 
