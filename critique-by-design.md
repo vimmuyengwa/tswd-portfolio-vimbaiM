@@ -25,6 +25,8 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 ## Step three: Sketch a solution
 <div style="min-height:367px" id="datawrapper-vis-JKRb5"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/JKRb5/embed.js" charset="utf-8" data-target="#datawrapper-vis-JKRb5"></script><noscript><img src="https://datawrapper.dwcdn.net/JKRb5/full.png" alt="" /></noscript></div>
 
+![image](https://github.com/user-attachments/assets/4030b9a5-c81b-4119-8c09-ee8d80ba4481)
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
