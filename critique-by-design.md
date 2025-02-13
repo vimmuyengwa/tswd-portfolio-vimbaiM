@@ -113,6 +113,18 @@ Created with Raw Graphs (Source: World Happiness Report)
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<div class='tableauPlaceholder' id='viz1739406886521' style='position: relative; width: 100%; height: 75vh;'>
+  <noscript>
+    <a href='#'>
+      <img alt='World Happiness Decline A Look at How The U.S. Stacks Up Against 2024&#39;s Top 10 &quot;Happiest&quot; Countries'
+           src='https://public.tableau.com/static/images/Wo/WorldHappinessDecline/Sheet1/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <!-- Tableau Embed via iframe -->
+  <iframe src="https://public.tableau.com/views/WorldHappinessDecline/Sheet1?:embed=y&:display_count=yes&:showVizHome=no"
+          width="100%" height="100%" style="border:none;">
+  </iframe>
+</div>
 
 For perspective, I also thought it was important to look at the contributing factors documented that showed life evaluations for happiness. After looking at the dataset, I though the aforementioned factors such as dystopia and residual as well as perceptions of corruption would engender more questions than otherwise. This also proved to be a tedious process because I was hovering over the original data to plot points in my excel beforre finding the offical data reports from World Happiness. 
 
@@ -141,5 +153,5 @@ Datawrapper. (n.d.). What to consider when choosing colors for data visualizatio
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI used to generate github code for pictures embedded 
 
