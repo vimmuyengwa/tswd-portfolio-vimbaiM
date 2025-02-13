@@ -65,12 +65,12 @@ Results:
 
 | Question | Response | Additional Notes |
 |----------|----------|------------------|
-| **- Can you tell me what you think this is?** | Consensus: This is a horizontal bar chart. | |
-| **- Can you describe to me what this is telling you?** | Consensus: This compares happiness in the United States with the world. | |
-| **- Is there anything you find surprising or confusing?** | Score Measurement question: Is the score out of 10? What is the maximum possible score? | Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder call-out. Include how many people participated in the survey. |
-| **Who do you think is the intended audience for this?** | General feedback: the world, public health professionals, United States. | |
-| **Is there anything you would change or do differently?** | Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text. | Highlighting U.S. Ranking: Call attention to the U.S. ranking specifically. |
-| | Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast. | |
+| **- Can you tell me what you think this is?** | Peer Cohort Consensus: This is a horizontal bar chart. | |
+| **- Can you describe to me what this is telling you?** |Peer Cohort Consensus: This compares happiness in the United States with the world. | |
+| **- Is there anything you find surprising or confusing?** | **Student 1:** Score Measurement question: Is the score out of 10? What is the maximum possible score? | Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder call-out. Include how many people participated in the survey. |
+| **Who do you think is the intended audience for this?** | **General feedback from Peer cohort:** the world, public health professionals, United States. | |
+| **Is there anything you would change or do differently?** | **Student 2:** Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text. | **Student 3:** Highlighting U.S. Ranking: Call attention to the U.S. ranking specifically. |
+| | **Student 2: Label Placement**: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast. | |
 
 Synthesis: 
 
