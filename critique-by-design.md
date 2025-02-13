@@ -53,13 +53,14 @@ For my first iteration, I focused on creating a simple, streamlined chart for gr
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 The below is the template I followed to ask questions. 
 
-- Can you tell me what you think this is?
+**- Can you tell me what you think this is?**
 Consensus: This is  ahorizontal bar chart.
 
-- Can you describe to me what this is telling you?
+**- Can you describe to me what this is telling you?**
 Consensus: This shows compares happiness in the United States with the world
 
-- Is there anything you find surprising or confusing?
+**- Is there anything you find surprising or confusing?**
+  
   **Student 1 Feedback:** 
 Score Measurement question: Is the score out of 10? What is the maximum possible score?
 Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out 
@@ -67,10 +68,10 @@ Happiness Index Measurement: How is the happiness index measured and calculated?
 **Student 2 Feedback***
 Include how many people participated in the survey
 
-- Who do you think is the intended audience for this?
+**- Who do you think is the intended audience for this?**
   General feedback: the world, public health professional. 
 
-- Is there anything you would change or do differently?
+**- Is there anything you would change or do differently?**
 **Student 3 Feedback**
 Suggestions for Data Visualization:
 Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
@@ -78,12 +79,6 @@ Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically
 Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
 
 Results:  
-
-**Student 3**
-Suggestions for Data Visualization:
-Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.
-Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically
-Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast.
 
 **Other observations,**: similar to when I analyzed the data, all students got excited about analyzing their specific home countries. Of the three, there were two countries represented and each was curious to learn how their country stacked up. This proved my original theory that the audience would be interested in the data specific to them or in this case their home country . 
 
