@@ -7,10 +7,8 @@ For my data visualization critique, I chose to analyze the World Happiness Repor
 ## Step one: the visualization
 
 Original data visualization:
+Link: https://public.tableau.com/views/2024Draft/Figure2_1?:language=en-US&:embed=y&:sid=&:redirect=auth&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link
 
-<div class='tableauPlaceholder' id='viz1739401077538' style='position: relative'><noscript><a href='https:&#47;&#47;worldhappiness.report&#47;'><img alt='World Happiness Report 2024Figure 2.1: Country Rankings by Life Evaluations in 2021-2023 _________NotesTabs 1 &amp; 2: The 95% confidence interval is shown in the grey-shaded area at the end of each life evaluation bar.Tab 2: The sub-bars have no impact on the total score reported for each country. Instead, they are a way of explaining the implications of the model estimated in Table 2.1. The few countries that have empty bars do not have sufficient information for the calculation of portions explained by individual factors. These countries still have their overall scores, though, which are based entirely on survey responses, and are independent of our efforts to explore the underlying support factors of happiness. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2024Draft&#47;Figure2_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1739401077538');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
@@ -57,19 +55,6 @@ For my first iteration, I focused on creating a simple, streamlined chart for gr
 ## Step four: Test the solution
 
 Results:  
-
-| Question |   |   |
-|----------|-------------|-------------|
-|  **- Can you tell me what you think this is?**        |     Consensus: This is  ahorizontal bar chart.        |             |
-| **- Can you describe to me what this is telling you?**         | Consensus: This shows compares happiness in the United States with the world            |             |
-|**- Is there anything you find surprising or confusing?**          | 
-Score Measurement question: Is the score out of 10? What is the maximum possible score?
-Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder Call out              | 
-Include how many people participated in the survey            |
-| **Who do you think is the intended audience for this?**         |General feedback: the world, public health professional, United States|             |
-|**Is there anything you would change or do differently?**          |
-Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.            |Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically             |
-| Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast         |             |             |
 
 | Question | Response | Additional Notes |
 |----------|----------|------------------|
