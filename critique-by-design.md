@@ -71,6 +71,14 @@ Include how many people participated in the survey            |
 Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text.            |Highlighting U.S. Ranking:Call attention to the U.S. ranking specifically             |
 | Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast         |             |             |
 
+| Question | Response | Additional Notes |
+|----------|----------|------------------|
+| **- Can you tell me what you think this is?** | Consensus: This is a horizontal bar chart. | |
+| **- Can you describe to me what this is telling you?** | Consensus: This compares happiness in the United States with the world. | |
+| **- Is there anything you find surprising or confusing?** | Score Measurement question: Is the score out of 10? What is the maximum possible score? | Happiness Index Measurement: How is the happiness index measured and calculated? Cantril ladder call-out. Include how many people participated in the survey. |
+| **Who do you think is the intended audience for this?** | General feedback: the world, public health professionals, United States. | |
+| **Is there anything you would change or do differently?** | Color Contrast: The white text on light blue is hard to read. Consider adjusting the background or using a darker color for text. | Highlighting U.S. Ranking: Call attention to the U.S. ranking specifically. |
+| | Label Placement: Move data labels away from the y-axis and place them outside the chart for better readability. Ensure the labels are in black to improve contrast. | |
 
 Synthesis: 
 
@@ -112,7 +120,9 @@ For perspective, I also thought it was important to look at the contributing fac
 
 <div style="min-height:402px" id="datawrapper-vis-rqBsF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/rqBsF/embed.js" charset="utf-8" data-target="#datawrapper-vis-rqBsF"></script><noscript><img src="https://datawrapper.dwcdn.net/rqBsF/full.png" alt="" /></noscript></div>
 
-Evaluating the feedback from my peers, I incorporated suggestions about the color contrast for the different years, moving away from the original light blue in favor of bolder brown and red gradients. I also highlighted the U.S. ranking in the footnotes, along with an explanation of the ranking as recommended. I made sure the labels were clearly called out for each time period, as suggested, and stayed true to the original visualization to minimize questions from my audience. Based on the reaction to exploring specific countries relevant to my peers, I believed this approach would also engage other U.S.-based viewers. Taking inspiration from the Tableau reference chart "World GDP Through Time," I added my own spin to focus specifically on the United States, creating what I believe to be a more concise chart.
+Finally, after testing out a number of theories, I decided to go back to my original idea and use the comparison of the United States against the world for Happiness Index. 
+
+In evaluating the feedback from my peers, I incorporated suggestions about the color contrast for the different years, moving away from the original light blue in favor of bolder brown and red gradients. I also highlighted the U.S. ranking in the footnotes, along with an explanation of the ranking as recommended. I made sure the labels were clearly called out for each time period, as suggested, and stayed true to the original visualization to minimize questions from my audience. Based on the reaction to exploring specific countries relevant to my peers, I believed this approach would also engage other U.S.-based viewers. Taking inspiration from the Tableau reference chart "World GDP Through Time," I added my own spin to focus specifically on the United States, creating what I believe to be a more concise chart.
 
 <div style="min-height:380px" id="datawrapper-vis-93uqZ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93uqZ/embed.js" charset="utf-8" data-target="#datawrapper-vis-93uqZ"></script><noscript><img src="https://datawrapper.dwcdn.net/93uqZ/full.png" alt="" /></noscript></div>
 
