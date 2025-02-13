@@ -78,10 +78,7 @@ Label Placement: Move data labels away from the y-axis and place them outside th
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 World Happiness Index Chart: Building a Solution
-
 
 Given the global nature of the topic, I initially turned to a world map to represent my data. However, I found that the global map didn't effectively highlight the contrasts I wanted to focus on. After receiving feedback from the professor, I agreed that larger countries often dominate the map, which can obscure the underlying ratings and make the differences less clear. For this iteration I used the data of all 143 countries. 
 
@@ -105,7 +102,15 @@ For my next graph iterations, I decided to not only look at a single dataset but
 <div style="min-height:380px" id="datawrapper-vis-93uqZ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93uqZ/embed.js" charset="utf-8" data-target="#datawrapper-vis-93uqZ"></script><noscript><img src="https://datawrapper.dwcdn.net/93uqZ/full.png" alt="" /></noscript></div>
 
 ## References
-_List any references you used here._
+World Happiness Report. (2024). Happiness of the younger, the older, and those in between. Retrieved February 12, 2025, from https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023
+
+VizHealth. (n.d.). VizHealth Wizard. Retrieved February 12, 2025, from http://www.vizhealth.org/wizard/
+
+Berinato, S. (2023). Good charts: The HBR guide to making smarter, more persuasive data visualizations (updated and expanded).
+
+Peck, E. (2019, May 20). Data is personal. What we learned from 42 interviews in rural America. Multiple Views: Visualization Research Explained. https://www.medium.com
+
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
