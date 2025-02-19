@@ -102,7 +102,11 @@ Miro. (n.d.). Skills Map. Miro. Retrieved February 3, 2025, from https://miro.co
 The future of FinOps: driving innovation, sustainability, and AI-driven cloud optimisation. (n.d.). Raconteur. Retrieved February 4, 2025, from https://www.raconteur.net/technology/the-future-of-finops-driving-innovation-sustainability-and-ai-driven-cloud-optimisation
 
 Credly. (n.d.). Certification. Credly. Retrieved February 18, 2025, from (https://www.credly.com/earner/earned/badge/074db33b-55d8-4593-83cb-faa7911a1ec2) 
-_all my certifications are tracked by Credly _
+_all my certifications are tracked by Credly_
+
+Amazon Web Services. (n.d.). What is cloud computing? Amazon Web Services, Inc. Retrieved February 17, 2025, from https://aws.amazon.com/what-is-cloud-computing/
+
+Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Conferences. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?referrer=playlist-how_to_make_a_great_presentation
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
