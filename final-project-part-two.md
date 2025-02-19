@@ -10,12 +10,12 @@ https://preview.shorthand.com/N1VFKbKqDr81XO0W/responsive/desktop
 
 ## Target audience
 
-###Old Story Arch
+### Old Story Arch
 ![image](https://github.com/user-attachments/assets/6e2049b5-09fd-46e1-a0e5-ae9f7bc796a7)
 Created using SlideEgg template
 
-###New Story Arch
-After thinking through my original story arch. I realized in order to outline my professional website, I first had to introduce myself 
+### New Story Arch
+After thinking through my original story arch. I realized in order to outline my professional website, I first had to introduce myself. This is the recreated story arch 
 ![image](https://github.com/user-attachments/assets/7bc85d78-700b-4ebe-9d19-645cbfd09b66)
 Created using SlideEgg template
 
@@ -27,17 +27,14 @@ When I decided to create a professional website, the primary audience I had in m
 
 Summary: The site is aimed at hiring managers, recruiters, industry professionals, and mentors/peers.
 
-After watching Nancy Duarte’s TED Talk on how to tell a story, it became clear to me that I needed to begin by explaining the "what is" before diving into the "what could be." The middle of the story should traverse between the current state and the future possibilities, showing a back-and-forth progression. As I walk through my experiences and how they align with the broader narrative, I want to address any resistance or concerns from potential employers. Regarding presenting the world as a "new bliss," I plan to focus on the reduction of costs, optimization, and sustainable solutions as key benefits of cloud technology.
+After watching Nancy Duarte’s TED Talk on how to tell a story, it became clear to me that I needed to begin by explaining the "what is" before diving into the "what could be." I tried to incorporate in the middle of the story the aspect of current state and the future possibilities, showing a back-and-forth progression. As I walk through my experiences and how they align with the broader narrative, I want to address any resistance or concerns from potential employers. Regarding presenting the world as a "new bliss," I plan to focus on the reduction of costs, optimization, and sustainable solutions as key benefits of cloud technology.
 
 My next thought is how to create a compelling scene that will keep people engaged. I’m considering how visuals can be used to effectively communicate these concepts. After all, as Nancy Duarte suggests, the future is a place that I get to create, not just something we're headed toward.
 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask.
-My goal is to create a professional platform that effectively communicates my expertise in Cloud FinOps and why cost optimization is a problem worth solving. I would like some feedback on how well the site achieves this goal
-
-
-Text here!
+My goal is to create a professional platform that effectively communicates my expertise in Cloud FinOps and why cost optimization is a problem worth solving. I would like some feedback on how well the site achieves this goal\
 
 | Goal                    | Questions to Ask                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
@@ -49,12 +46,8 @@ Text here!
 | Next Steps               | If you were a recruiter/hiring manager, would this website make you want to reach out? Why or why not? |
 
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
 |--------------------------------------|-----------------------------------------|-----------------|-----------------|
