@@ -112,5 +112,6 @@ Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Confe
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
 I used it to categorize my questions for my User Interviews
+I used AI to consolidate my timelines for the History of The cloud citing Foote,K.D.
 
 
