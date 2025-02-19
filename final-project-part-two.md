@@ -56,11 +56,14 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
+|--------------------------------------|-----------------------------------------|-----------------|-----------------|
+| **What do you think?**          | Dive into what is the cloud for the average person                   |                 |                 |
+| **Design feedback**                  | Cool design                             |                 |                 |
+| **Company-focused feedback**         | You can make presentation more Bare bones for companies, but add more detail about the cloud                |                 |                 |
+| **Cloud explanation**                | Detailed version explaining the cloud   |                 |                 |
+| **Project focus**                    | Focus on projects over implementation   |                 |                 |
+| **Hiring feedback**                  | “I would hire you”                      |                 |                 |
 
 
 # Identified changes for Part III
@@ -70,6 +73,11 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
+
+| **Research synthesis**                   | **Anticipated changes for Part III**                                               |
+|------------------------------------------|-----------------------------------------------------------------------------------|
+| I am updating the cloud information to explain more of the history of the cloud | Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. |
+
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
@@ -78,12 +86,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Putting myself under the microscope has proven to be a Herculean task. My goal is to remain transparent while also considering how to refine this project for future iterations, particularly for recruiters. In some ways, this process has helped me reflect on my overall career and the work I’ve done. I believe this self-reflection will better prepare me to navigate future opportunities.
 
 ## References
 _List any references you used here._
@@ -92,6 +95,21 @@ Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Confe
 Foote, K. D. (2021, December 17). A brief history of cloud computing. Dataversity. https://www.dataversity.net/brief-history-cloud-computing/
 
 SoftwareOne. (n.d.). FinOps for sustainability: Save money and the planet. SoftwareOne. Retrieved February 18, 2025, from https://www.softwareone.com/en-us/finops-services/finops-sustainability-greenops
+
+Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved February 3, 2025, from https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws
+
+Flexera. (2024). State of the cloud report. Flexera. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
+
+Gartner. (2024, November 19). Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025. Gartner. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
+
+FinOps Foundation. (n.d.). FinOps job board. FinOps Foundation. Retrieved February 3, 2025, from https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States
+
+Miro. (n.d.). Skills Map. Miro. Retrieved February 3, 2025, from https://miro.com/app/board/uXjVLkLGZtU=/
+
+The future of FinOps: driving innovation, sustainability, and AI-driven cloud optimisation. (n.d.). Raconteur. Retrieved February 4, 2025, from https://www.raconteur.net/technology/the-future-of-finops-driving-innovation-sustainability-and-ai-driven-cloud-optimisation
+
+Credly. (n.d.). Certification. Credly. Retrieved February 18, 2025, from (https://www.credly.com/earner/earned/badge/074db33b-55d8-4593-83cb-faa7911a1ec2) 
+_all my certifications are tracked by Credly _
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
