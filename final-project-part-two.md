@@ -9,6 +9,7 @@ This project is a responsive web design. Preview the project here:
 # User research 
 
 ## Target audience
+To begin, in order to entice my target audience, I reevaluated my story arch. 
 
 ### Old Story Arch
 ![image](https://github.com/user-attachments/assets/6e2049b5-09fd-46e1-a0e5-ae9f7bc796a7)
