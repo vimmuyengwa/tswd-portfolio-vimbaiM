@@ -72,9 +72,9 @@ For my second interview, I received feedback on the feel of the webpage and how 
 | **What do you think about the story flow?** |                                                                       | - Switch the order and move content.                              |                                                                    |
 |                                         |                                                                       | - Purpose of the site: Highlight my skills.                       |                                                                    |
 |                                         |                                                                       | - Appearance and consulting on cloud. Contact information.         |                                                                    |
-| **Title Site**                          |  |                                                                    |     Title site – "Cloud Expertise and Consulting." suggestion
-Keep intro short and high-level                                                               |
-| **Hook**                                |                                                                       | Decide: The hook is the cloud expertise. Will attract more eyeballs. The value is learning something and potentially hiring you. | Bigger audience if people want to learn about the cloud.            |
+| **Title Site**                          |  | Title site – "Cloud Expertise and Consulting." suggestion. Keep intro short and high-level                                                              | 
+                                                               |
+| **Hook**                                |                                                                       | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider Bigger audience if people want to learn about the cloud.            |
 | **Flow of Story**                       |                                                                       | Be careful to ensure that you can connect your story.              |                                                                    |
 
 
@@ -94,7 +94,7 @@ If you were a hiring manager, would you reach out (I would see this and say yes)
 
 | **Research Synthesis**                         | **Anticipated Changes for Part III**                                                                                             |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-|        **Additional information*           | Update the cloud information to explain more of the history of the cloud. Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. |
+| **Additional information**         | Update the cloud information to explain more of the history of the cloud. Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. |
 | **Hook Development**                      | Develop more of a hook. Perhaps a story on cloud storage and the iPhone and/or email accounts to set a baseline.               |
 | **Developing My Story and Projects**      | Focus more on the projects I've completed over implementation.                                                                 |
 | **Brevity in Areas**                      | Find areas to shorten and ensure content is concise.                                                                            |
