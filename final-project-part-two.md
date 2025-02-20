@@ -79,8 +79,7 @@ For my third interview, i received feedback on the general professionalism and r
 
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+# Identified changes for Part III 
 
 | **Research Synthesis**                         | **Anticipated Changes for Part III**                                                                                             |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
