@@ -52,27 +52,26 @@ For my first interview, the feedback received was to provide more information on
 I decided to create a historical timelin to showcase this. The interviewers also suggested I focus on projects and more less the nitty gritty technical details. 
 
 
-| **Questions**                        | **Interview 1 (Briefly Describe)**                                          | **Interview 2**  | **Interview 3**  |
-|--------------------------------------|-----------------------------------------------------------------------------|-----------------|-----------------|
-| **What do you think?**               | Dive into what the cloud means for the average person.                      |                 |                 |
-| **Design Feedback**                  | "Cool design."                                                               |                 |                 |
-| **Company-Focused Feedback**         | "You can make the presentation more bare bones for companies, but add more detail about the cloud." |                 |                 |
-| **Cloud Explanation**                | Detailed version explaining the cloud.                                       |                 |                 |
-| **Project Focus**                    | Focus on projects over implementation.                                       |                 |                 |
-| **Hiring Feedback**                  | "I would hire you."                                                          |                 |                 |
+| **Questions**                        | **Interview 1 (Briefly Describe)**                                          | 
+|--------------------------------------|-----------------------------------------------------------------------------|
+| **What do you think?**               | Dive into what the cloud means for the average person.                      |
+| **Design Feedback**                  | "Cool design."                                                               |           
+| **Company-Focused Feedback**         | "You can make the presentation more bare bones for companies, but add more detail about the cloud." |     
+| **Cloud Explanation**                | Detailed version explaining the cloud.                                       |            
+| **Project Focus**                    | Focus on projects over implementation.                                       |        
+| **Hiring Feedback**                  | "I would hire you."                                                          |     
 
 
 For my second interview, I received feedback on the feel of the webpage and how well my story communicates based on the high level content and how I can better hook my audience 
 
-| **Questions**                           | **Interview 1 (Briefly Describe)**                                    | **Interview 2**                                                    | **Interview 3**                                                    |
-|-----------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| **What do you think about the story flow?** |                                                                       | - Switch the order and move content.                              |                                                                    |
-|                                         |                                                                       | - Purpose of the site: Highlight my skills.                       |                                                                    |
-|                                         |                                                                       | - Appearance and consulting on cloud. Contact information.         |                                                                    |
-| **Title Site**                          |  | Title site – "Cloud Expertise and Consulting." suggestion. Keep intro short and high-level                                                              | 
-                                                               |
-| **Hook**                                |                                                                       | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider Bigger audience if people want to learn about the cloud.            |
-| **Flow of Story**                       |                                                                       | Be careful to ensure that you can connect your story.              |                                                                    |
+| **Questions**                           | **Interview 2 (Briefly Describe)**                                           |
+|-----------------------------------------|-------------------------------------------------------------------------------|
+| **What do you think about the story flow?** | - Switch the order and move content.                                        |
+|                                         | - Purpose of the site: Highlight my skills.                                 |
+|                                         | - Appearance and consulting on cloud. Contact information.                   |
+| **Title Site**                          | Title site – "Cloud Expertise and Consulting." Suggestion: Keep intro short and high-level. |
+| **Hook**                                | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider a bigger audience if people want to learn about the cloud. |
+| **Flow of Story**                       | Be careful to ensure that you can connect your story.                        |                                                                     |
 
 
 For my third interview, i received feedback on the general professionalism and readiness for view for a hiring manager 
