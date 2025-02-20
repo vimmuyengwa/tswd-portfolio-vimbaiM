@@ -2,8 +2,9 @@
 
 # Wireframes / storyboards
 
-# ShorthandLink
-https://preview.shorthand.com/N1VFKbKqDr81XO0W/responsive/desktop
+This project is a responsive web design. Preview the project here:
+
+[Preview the project](https://preview.shorthand.com/N1VFKbKqDr81XO0W/responsive/desktop)
 
 # User research 
 
