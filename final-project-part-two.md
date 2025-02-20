@@ -9,14 +9,13 @@ To access my web design, please preview the project here:
 # User research 
 
 ## Target audience
-To begin, in order to entice my target audience, I reevaluated my story arch. 
+As part two of the project unfolded, I was led to reevaluate my story arc. After starting the practical implementation of my website and considering the primary audience, it became clear that a brief introduction and a sandwich format would better serve my story. I realized that, in order to outline my professional website effectively, I first needed to introduce myself. Below is the recreation of my story arc, including the before and after
 
-### Old Story Arch
+### Old Story Arc
 ![image](https://github.com/user-attachments/assets/6e2049b5-09fd-46e1-a0e5-ae9f7bc796a7)
 Created using SlideEgg template
 
-### New Story Arch
-After thinking through my original story arch. I realized in order to outline my professional website, I first had to introduce myself. This is the recreated story arch 
+### New Story Arc
 ![image](https://github.com/user-attachments/assets/7bc85d78-700b-4ebe-9d19-645cbfd09b66)
 Created using SlideEgg template
 
