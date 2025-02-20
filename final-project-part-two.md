@@ -31,6 +31,8 @@ After watching Nancy Duarte’s TED Talk on how to tell a story, it became clear
 
 My next thought is how to create a compelling scene that will keep people engaged. I’m considering how visuals can be used to effectively communicate these concepts. After all, as Nancy Duarte suggests, the future is a place that I get to create, not just something we're headed toward.
 
+I also spent some time reading the NY times Github site via  suggesting that the "most compelling timeline sotries have a narrative arc, and clearly highlight the turning points in the saga". 
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask.
@@ -49,6 +51,10 @@ My goal is to create a professional platform that effectively communicates my ex
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
+For my first interview, the feedback received was to provide more information on the cloud, so audience could have more context. 
+I decided to create a historical timelin to showcase this. The interviewers also suggested I focus on projects and more less the nitty gritty technical details. 
+
+
 | **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
 |--------------------------------------|-----------------------------------------|-----------------|-----------------|
 | **What do you think?**          | Dive into what is the cloud for the average person                   |                 |                 |
@@ -58,18 +64,41 @@ My goal is to create a professional platform that effectively communicates my ex
 | **Project focus**                    | Focus on projects over implementation   |                 |                 |
 | **Hiring feedback**                  | “I would hire you”                      |                 |                 |
 
+For my second interview, I received feedback on the feel of the webpage and how well my story communicates based on the high level content and how I can better hook my audience 
+
+| **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
+| **What do you think about the story flow?** |                     |         -	switch the order and move content 
+-	purpose of the site – highlight my skills 
+-	Appearance and consulting on cloud. Contact information|                 |
+  |*Title Site*        | Title site – Cloud Expertise and Consulting 
+Keep it short and high level |                 |                 |
+| **Hook*                  |     |    Decide: hook is the cloud expertise 
+Will attract more eyeballs – value I am providing that people. Learning something to now hiring you 
+Bigger audience if there are people that want to learn about cloud              |                 |
+| **Flow of Story**                  |                      |  Be careful that you are able to connect your story|                 |
+
+For my third interview, i received feedback on the general professionalism and readiness for view for a hiring manager 
+
+| **Thoughs on site feel and visualization?**                  |           |                 |intuitive, intelligible
+without listing out your projects
+Inclusion of timeline and projects is good                 |
+| **Hiring feedback**                  | “I would hire you”                      |Professional website
+-	Professional website, in lieu of a coverletter you can send this to people 
+If you were a hiring manager, would you reach out (I would see this and say yes)|                 |
+
+
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-
 | **Research synthesis**                   | **Anticipated changes for Part III**                                               |
 |------------------------------------------|-----------------------------------------------------------------------------------|
-| I am updating the cloud information to explain more of the history of the cloud | Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. |
+| I am updating the cloud information to explain more of the history of the cloud | Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. (already made |
+|Developing more of a hook? Perhaps a story on cloud storage and the Iphone and or our email accounts to set a baseline|
+|Focus on projects over implementatioon (already incorporated |
+|Finding areas to shorten (already incorporated) 
+|Connect your story! (Incorporated - I believe the story has formed well pending additional feedback for Project II)|
+|I believe i can find a better way to represent the map that I have shown for more emphasis on 
 
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 |                                          |                                                                                 |
@@ -109,6 +138,8 @@ Amazon Web Services. (n.d.). What is cloud computing? Amazon Web Services, Inc. 
 Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Conferences. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?referrer=playlist-how_to_make_a_great_presentation
 
 Spot.io. (n.d.). FinOps Foundation Overview: Mission, History & Certifications. Spot.io. Retrieved February 20, 2025, from https://spot.io/resources/finops/finops-foundation-overview-mission-history-certifications/
+
+Kwong, R. (2025, February 20). How we improved visual storytelling with templates that you can use, too. The Financial Times. https://source.opennews.org/articles/story-templates-financial-times-reusable/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
