@@ -37,7 +37,7 @@ My goal is to create a professional platform that effectively communicates my ex
 | Improve Content          | Do you get a clear sense of my expertise and unique value in the field?           |
 | Improve Content          | Is there anything unclear, missing, or that you’d like to see more of?            |
 | First Impressions         | Does the website feel professional and polished? What elements enhance or take away from that impression? |
-| Visual & User Experience | Do the visuals (charts, infographics, case studies) help explain the concepts, or do they need improvement? |
+| Visual & User Experience | Do the visuals (charts, infographics) help explain the concepts, or do they need improvement? |
 | Next Steps               | If you were a recruiter/hiring manager, would this website make you want to reach out? Why or why not? |
 
 
