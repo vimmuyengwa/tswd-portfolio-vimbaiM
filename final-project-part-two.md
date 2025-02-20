@@ -108,6 +108,8 @@ Amazon Web Services. (n.d.). What is cloud computing? Amazon Web Services, Inc. 
 
 Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Conferences. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?referrer=playlist-how_to_make_a_great_presentation
 
+Spot.io. (n.d.). FinOps Foundation Overview: Mission, History & Certifications. Spot.io. Retrieved February 20, 2025, from https://spot.io/resources/finops/finops-foundation-overview-mission-history-certifications/
+
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
