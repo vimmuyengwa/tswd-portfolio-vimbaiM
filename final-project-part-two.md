@@ -55,27 +55,28 @@ For my first interview, the feedback received was to provide more information on
 I decided to create a historical timelin to showcase this. The interviewers also suggested I focus on projects and more less the nitty gritty technical details. 
 
 
-| **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
-|--------------------------------------|-----------------------------------------|-----------------|-----------------|
-| **What do you think?**          | Dive into what is the cloud for the average person                   |                 |                 |
-| **Design feedback**                  | Cool design                             |                 |                 |
-| **Company-focused feedback**         | You can make presentation more Bare bones for companies, but add more detail about the cloud                |                 |                 |
-| **Cloud explanation**                | Detailed version explaining the cloud   |                 |                 |
-| **Project focus**                    | Focus on projects over implementation   |                 |                 |
-| **Hiring feedback**                  | “I would hire you”                      |                 |                 |
+| **Questions**                        | **Interview 1 (Briefly Describe)**                                          | **Interview 2**  | **Interview 3**  |
+|--------------------------------------|-----------------------------------------------------------------------------|-----------------|-----------------|
+| **What do you think?**               | Dive into what the cloud means for the average person.                      |                 |                 |
+| **Design Feedback**                  | "Cool design."                                                               |                 |                 |
+| **Company-Focused Feedback**         | "You can make the presentation more bare bones for companies, but add more detail about the cloud." |                 |                 |
+| **Cloud Explanation**                | Detailed version explaining the cloud.                                       |                 |                 |
+| **Project Focus**                    | Focus on projects over implementation.                                       |                 |                 |
+| **Hiring Feedback**                  | "I would hire you."                                                          |                 |                 |
+
 
 For my second interview, I received feedback on the feel of the webpage and how well my story communicates based on the high level content and how I can better hook my audience 
 
-| **Questions**                        | **Interview 1 (briefly describe)**      | **Interview 2**  | **Interview 3**  |
-| **What do you think about the story flow?** |                     |         -	switch the order and move content 
--	purpose of the site – highlight my skills 
--	Appearance and consulting on cloud. Contact information|                 |
-  |*Title Site*        | Title site – Cloud Expertise and Consulting 
-Keep it short and high level |                 |                 |
-| **Hook*                  |     |    Decide: hook is the cloud expertise 
-Will attract more eyeballs – value I am providing that people. Learning something to now hiring you 
-Bigger audience if there are people that want to learn about cloud              |                 |
-| **Flow of Story**                  |                      |  Be careful that you are able to connect your story|                 |
+| **Questions**                           | **Interview 1 (Briefly Describe)**                                    | **Interview 2**                                                    | **Interview 3**                                                    |
+|-----------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| **What do you think about the story flow?** |                                                                       | - Switch the order and move content.                              |                                                                    |
+|                                         |                                                                       | - Purpose of the site: Highlight my skills.                       |                                                                    |
+|                                         |                                                                       | - Appearance and consulting on cloud. Contact information.         |                                                                    |
+| **Title Site**                          |  |                                                                    |     Title site – "Cloud Expertise and Consulting." suggestion
+Keep intro short and high-level                                                               |
+| **Hook**                                |                                                                       | Decide: The hook is the cloud expertise. Will attract more eyeballs. The value is learning something and potentially hiring you. | Bigger audience if people want to learn about the cloud.            |
+| **Flow of Story**                       |                                                                       | Be careful to ensure that you can connect your story.              |                                                                    |
+
 
 For my third interview, i received feedback on the general professionalism and readiness for view for a hiring manager 
 
@@ -91,20 +92,24 @@ If you were a hiring manager, would you reach out (I would see this and say yes)
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-| **Research synthesis**                   | **Anticipated changes for Part III**                                               |
-|------------------------------------------|-----------------------------------------------------------------------------------|
-| I am updating the cloud information to explain more of the history of the cloud | Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. (already made |
-|Developing more of a hook? Perhaps a story on cloud storage and the Iphone and or our email accounts to set a baseline|
-|Focus on projects over implementatioon (already incorporated |
-|Finding areas to shorten (already incorporated) 
-|Connect your story! (Incorporated - I believe the story has formed well pending additional feedback for Project II)|
-|I believe i can find a better way to represent the map that I have shown for more emphasis on 
+| **Research Synthesis**                         | **Anticipated Changes for Part III**                                                                                             |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+|        **Additional information*           | Update the cloud information to explain more of the history of the cloud. Make it more detailed and accessible, incorporating educational material on cloud evolution and its significance. |
+| **Hook Development**                      | Develop more of a hook. Perhaps a story on cloud storage and the iPhone and/or email accounts to set a baseline.               |
+| **Developing My Story and Projects**      | Focus more on the projects I've completed over implementation.                                                                 |
+| **Brevity in Areas**                      | Find areas to shorten and ensure content is concise.                                                                            |
+| **Story Flow**                            | Ensure the story flows well; connect the dots in the narrative. Continue refining the structure based on feedback for Project II. |
+| **Data Visualization**                    | Find a better way to represent the map and emphasize reflection incorporates *Good Charts* on chart persuasion or manipulation. |
 
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+
+| **Findings or Observations from Interviews**                                    | **Describe What, If Any Changes You Anticipate Making to Address the Observation** |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Observation 1**: Some interviewees felt that the cloud's origin story could help add to the story.     | Revise content to offer a clearer historical perspective with milestones (completed). |
+| **Observation 2**: Perhaps audience can benefit from how cloud services impact everyday life. | I mentioned in P1 how cloud is already part of our day to day (like iPhone or email storage) t. |
+| **Observation 3**: Some feedback indicated that I needed to make sure the story did not veer off based on the multitude of narratives. | Improve transitions between sections, ensuring a smoother narrative and clearer links between personal projects and cloud evolution. |
+| **Observation 4**: A few respondents found the content to be too long in the introductin. | Remove parts to ensure the core message is clear and concise (completed). |
+| **Observation 6**: I should identify my hook to make draw audience in.      | Develop a stronger, more engaging hook by adding a relatable story (e.g., iPhone's integration with cloud services. I pay 2.99 for picture storage currently. Maybe a play in this area). |
+
 
 > ...include any final thoughts you have here. 
 
@@ -140,6 +145,8 @@ Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Confe
 Spot.io. (n.d.). FinOps Foundation Overview: Mission, History & Certifications. Spot.io. Retrieved February 20, 2025, from https://spot.io/resources/finops/finops-foundation-overview-mission-history-certifications/
 
 Kwong, R. (2025, February 20). How we improved visual storytelling with templates that you can use, too. The Financial Times. https://source.opennews.org/articles/story-templates-financial-times-reusable/
+
+FinOps Foundation. (n.d.). Adopting FinOps: Getting started. FinOps Foundation. Retrieved February 20, 2025, from https://www.finops.org/wg/adopting-finops/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
