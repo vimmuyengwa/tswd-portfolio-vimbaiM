@@ -18,10 +18,6 @@ After thinking through my original story arch. I realized in order to outline my
 ![image](https://github.com/user-attachments/assets/7bc85d78-700b-4ebe-9d19-645cbfd09b66)
 Created using SlideEgg template
 
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
-
-Text here!
-
 When I decided to create a professional website, the primary audience I had in mind was recruiters and companies seeking a deeper understanding of my expertise. I foresee that the potential users for my site will include hiring managers, recruiters, industry peers, and individuals in my network. As I developed my story, I realized that I needed to make my site accessible not only to industry peers but also to those without direct cloud experience. Increasing accessibility was the main piece of feedback I received from my peers throughout the development process. This feedback led me to incorporate more educational material about the cloud and its history.
 
 Summary: The site is aimed at hiring managers, recruiters, industry professionals, and mentors/peers.
@@ -32,8 +28,8 @@ In addition, I also spent some time reviewing the Financial Times GitHub site, w
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask.
-My goal is to create a professional platform that effectively communicates my expertise in Cloud FinOps and why cost optimization is a problem worth solving. I would like some feedback on how well the site achieves this goal\
+
+My goal is to create a professional platform that effectively communicates my expertise in Cloud FinOps and why cost optimization is a problem worth solving. I would like some feedback on how well the site achieves this goal
 
 | Goal                    | Questions to Ask                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
@@ -46,19 +42,18 @@ My goal is to create a professional platform that effectively communicates my ex
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 For my first interview, the feedback received was to provide more information on the cloud, so audience could have more context. 
-I decided to create a historical timelin to showcase this. The interviewers also suggested I focus on projects and more less the nitty gritty technical details. 
+I decided to create a historical timeline to showcase this. The interviewers also suggested I focus on projects and more less the nitty gritty technical details. I had my original script, but I just went with the flow when it came to actually asking questions
 
 
 | **Questions**                        | **Interview 1 (Briefly Describe)**                                          | 
 |--------------------------------------|-----------------------------------------------------------------------------|
-| **What do you think?**               | Dive into what the cloud means for the average person.                      |
+| **What do you think (after introducing my topics and showing my site)?**               | Dive into what the cloud means for the average person.                      |
 | **Design Feedback**                  | "Cool design."                                                               |           
 | **Company-Focused Feedback**         | "You can make the presentation more bare bones for companies, but add more detail about the cloud." |     
-| **Cloud Explanation**                | Detailed version explaining the cloud.                                       |            
-| **Project Focus**                    | Focus on projects over implementation.                                       |        
+| **Is the message more accessible to those not familiar with cloud**                | Perhaps a bried explanation (completed, timeline added and cloud computing outlines).|            
+| **Anything else**                    | Think about putting a focus on projects over cloud implementation.                                       |        
 | **Hiring Feedback**                  | "I would hire you."                                                          |     
 
 
@@ -67,11 +62,11 @@ For my second interview, I received feedback on the feel of the webpage and how 
 | **Questions**                           | **Interview 2 (Briefly Describe)**                                           |
 |-----------------------------------------|-------------------------------------------------------------------------------|
 | **What do you think about the story flow?** | - Switch the order and move content.                                        |
-|                                         | - Purpose of the site: Highlight my skills.                                 |
-|                                         | - Appearance and consulting on cloud. Contact information.                   |
-| **Title Site**                          | Title site – "Cloud Expertise and Consulting." Suggestion: Keep intro short and high-level. |
-| **Hook**                                | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider a bigger audience if people want to learn about the cloud. |
-| **Flow of Story**                       | Be careful to ensure that you can connect your story.                        |                                                                     |
+|                                         | - Purpose of the site should be clear: Highlight your skills, but identify hook                             |
+|                                         | - Think of making a focus on consulting on cloud. Contact information                 |
+| **Title Site**                          | Title site – "Cloud Expertise and Consulting." Suggestion: Keep intro short and high-level |
+| **Hook**                                | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider a bigger audience if people want to learn about the cloud |
+| **Flow of Story?**                       | Be careful to ensure that you can connect your story throughout   |                                                                     |
 
 
 For my third interview, i received feedback on the general professionalism and readiness for view for a hiring manager 
