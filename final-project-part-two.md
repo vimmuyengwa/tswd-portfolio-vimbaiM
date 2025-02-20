@@ -26,11 +26,9 @@ When I decided to create a professional website, the primary audience I had in m
 
 Summary: The site is aimed at hiring managers, recruiters, industry professionals, and mentors/peers.
 
-After watching Nancy Duarte’s TED Talk on how to tell a story, it became clear to me that I needed to begin by explaining the "what is" before diving into the "what could be." I tried to incorporate in the middle of the story the aspect of current state and the future possibilities, showing a back-and-forth progression. As I walk through my experiences and how they align with the broader narrative, I want to address any resistance or concerns from potential employers. Regarding presenting the world as a "new bliss," I plan to focus on the reduction of costs, optimization, and sustainable solutions as key benefits of cloud technology.
+After watching Nancy Duarte’s TED Talk on how to tell a story, it became clear to me that I needed to begin by explaining the "what is" before diving into the "what could be." I tried to incorporate in the middle of the story the aspect of current state and the future possibilities, showing a back-and-forth progression. As I walk through my experiences and how they align with the broader narrative, I want to address any resistance or concerns from potential employers. Regarding presenting the world as a "new bliss," I plan to focus on the reduction of costs, optimization, and sustainable solutions as key benefits of cloud technology. My next thought is how to create a compelling scene that will keep people engaged. I’m considering how my currents visuals could be used to effectively communicate these concepts. After all, as Nancy Duarte suggests, the future is a place that I get to create, not just something we're headed toward. I played around a lot with the templates. I tried out 2 others before I landed on the current one. I spent some time experiments with how to incorporate the inhouse built in tooling to achieve a flow that would make sense and not be visually distracting. 
 
-My next thought is how to create a compelling scene that will keep people engaged. I’m considering how visuals can be used to effectively communicate these concepts. After all, as Nancy Duarte suggests, the future is a place that I get to create, not just something we're headed toward.
-
-I also spent some time reading the NY times Github site via  suggesting that the "most compelling timeline sotries have a narrative arc, and clearly highlight the turning points in the saga". 
+In addition, I also spent some time reviewing the Financial Times GitHub site, which suggests that "the most compelling timeline stories have a narrative arc and clearly highlight the turning points in the saga."(Financial times)I applied this concept to my own site, hoping that incorporating visual elements like timelines would engage my audience and present the content in a visually pleasing way
 
 
 ## Interview script
@@ -108,8 +106,6 @@ For my third interview, i received feedback on the general professionalism and r
 | **Observation 4**: A few respondents found the content to be too long in the introductin. | Remove parts to ensure the core message is clear and concise (completed). |
 | **Observation 6**: I should identify my hook to make draw audience in.      | Develop a stronger, more engaging hook by adding a relatable story (e.g., iPhone's integration with cloud services. I pay 2.99 for picture storage currently. Maybe a play in this area). |
 
-
-> ...include any final thoughts you have here. 
 
 Putting myself under the microscope has proven to be a Herculean task. My goal is to remain transparent while also considering how to refine this project for future iterations, particularly for recruiters. In some ways, this process has helped me reflect on my overall career and the work I’ve done. I believe this self-reflection will better prepare me to navigate future opportunities.
 
