@@ -1,7 +1,6 @@
 | [home page](https://vimmuyengwa.github.io/tswd-portfolio-vimbaiM/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 # ShorthandLink
 https://preview.shorthand.com/N1VFKbKqDr81XO0W/responsive/desktop
@@ -80,12 +79,11 @@ For my second interview, I received feedback on the feel of the webpage and how 
 
 For my third interview, i received feedback on the general professionalism and readiness for view for a hiring manager 
 
-| **Thoughs on site feel and visualization?**                  |           |                 |intuitive, intelligible
-without listing out your projects
-Inclusion of timeline and projects is good                 |
-| **Hiring feedback**                  | “I would hire you”                      |Professional website
--	Professional website, in lieu of a coverletter you can send this to people 
-If you were a hiring manager, would you reach out (I would see this and say yes)|                 |
+| **Questions**                              | **Interview 3 (Briefly Describe)**                                           |
+|--------------------------------------------|-------------------------------------------------------------------------------|
+| **Thoughts on site feel and visualization?** | Intuitive, intelligible even ithout listing out your projects. Inclusion of timeline and projects is good. |
+| **Hiring feedback**                        | "I would hire you." Professional website. In lieu of a cover letter, you can send this to people. |
+| **If you were a hiring manager, would you reach out?** | (I would say yes). |
 
 
 
