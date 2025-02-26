@@ -136,6 +136,9 @@ Kwong, R. (2025, February 20). How we improved visual storytelling with template
 
 FinOps Foundation. (n.d.). Adopting FinOps: Getting started. FinOps Foundation. Retrieved February 20, 2025, from https://www.finops.org/wg/adopting-finops/
 
+Flaticon. (n.d.). Idea [Icon]. Flaticon. Retrieved February 17, 2025, from https://www.flaticon.com/free-icon/idea_189667
+<a href="https://www.flaticon.com/free-icons/tv" title="tv icons">Tv icons created by Roundicons - Flaticon</a>
+
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
