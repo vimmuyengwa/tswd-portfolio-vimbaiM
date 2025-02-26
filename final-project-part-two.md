@@ -115,7 +115,7 @@ Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved Februa
 
 Flexera. (2024). State of the cloud report. Flexera. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
 
-Gartner. (2024, November 19). Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025. Gartner. Retrieved February 3, 2025, from [https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit](https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025#:~:text=Technology%20%2F%20Press%20Release-,Gartner%20Forecasts%20Worldwide%20Public%20Cloud%20End%2DUser%20Spending,Total%20%24723%20Billion%20in%202025&text=Worldwide%20end%2Duser%20spending%20on,latest%20forecast%20from%20Gartner%2C%20Inc.)
+Gartner. (2024, November 19). Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025. Gartner. Retrieved February 3, 2025, from https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025
 
 FinOps Foundation. (n.d.). FinOps job board. FinOps Foundation. Retrieved February 3, 2025, from https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States
 
