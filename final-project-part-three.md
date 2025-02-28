@@ -49,10 +49,10 @@ My initial sketch included an end-user projected spend cost in billions, showing
  var scriptElement = document.createElement('script');                    
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+</script>&nbsp;&nbsp;&nbsp;
 
 
-&nbsp;&nbsp;&nbsp;**Global FinOps Jobs**
+**Global FinOps Jobs**
 
 The original global FinOps Job board showed the map of countries with FinOps jobs. I wanted to find a better way to represent the map. I really thought about Good Charts' persuasion or manipulation tactics for graphs. The orginal made did not take into account the actual job count across countries for open roles. I decided to change this chart to not only show FinOps jobs globally but also present a true picture of the actual job count in different countries. For the description of the graph, I leaned into describing ideas, not structure (Good Charts Workbook, page 48). I thought presenting the data to show insights into U.S. FinOps proliferation and tell the story of how the U.S. is leading in FinOps adoption.
 
