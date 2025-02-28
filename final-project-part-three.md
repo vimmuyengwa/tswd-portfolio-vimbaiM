@@ -119,7 +119,7 @@ In the second part of the project, I utilized image of actual clouds and weaved 
 <br>
 <br>
 For my pie chart illustrated in **Call to Action**: I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
-![image](https://github.com/user-attachments/assets/b7e470ae-6631-44cb-b43d-672d61351c84)
+
 
 ## The audience
 
