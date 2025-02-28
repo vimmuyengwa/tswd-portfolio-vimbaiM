@@ -2,6 +2,8 @@
 
 # The final data story
 https://carnegiemellon.shorthandstories.com/projectiiifinal_vimbaimuyengwa/index.html
+https://preview.shorthand.com/63D9SWh1IadR76n6 (preview version is showing Tableau Graphs)
+
 
 # Changes made since Part II
 **Story Arc**
@@ -19,6 +21,8 @@ In Part I of the project, I initially had a spider diagram to detail my skillset
 For Part III, I decided to specifically call out my career timeline journey as a transition from strictly Business to Technology and Business. I think this callout will be essential in telling my story and providing more context about the work I have done to get here.
 
 ### Final Design Decisions
+
+**Gartner Worldwide Public Cloud Services End-User Spending Forecast**:
 For my original bar chart, I had blue and orange for my bars. However, I thought about how best to complement the rest of my site. The colors I landed on were crème/maroon. At this point, I was thinking about how to use color (Good Charts Workbook, pg. 15). The goal in mind was to make it complementary. Something I had to keep in mind when I thought about changing the title of the chart to show an alarming color, like red, for the dramatic effect of a billion dollar problem. However, I quickly realized it was best to stick to the variables and keep the text black to keep it simple and variables streamlined. (Good Charts).
 
 <div class='tableauPlaceholder' id='viz1740702193633' style='position: relative'><noscript><a href='#'><img alt='Gartner Worldwide Public Cloud Services End-User Spending Forecast, 2024-2025 (Billions of U.S. Dollars)Source: Gartner ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerTableComparisons_V2&#47;GartnerForecast&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GartnerTableComparisons_V2&#47;GartnerForecast' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerTableComparisons_V2&#47;GartnerForecast&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
@@ -33,8 +37,8 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 
 Additionally, I also thought about creating a different type of chart with the data provided. Perhaps a table would have been best. I experimented with this in Tableau but ultimately decided to lean into how people think and use a bar chart to show the change year over year to respect convention (Good Charts Workbook, page 48).
 
-Initial Sketches
-My initial sketch included an end-user projected spend cost in billions, showing just a simple diagram like this. My thought process in presenting the information this way was to just have a sticker shock value standing out for cloud spend in 2025. What I found was that the second graph showing the comparison of 2024 and 2025 told a better story because you can see the different types of cloud costs versus the orginal seen below:
+**Initial Sketches**
+My initial sketch included an end-user projected spend cost in billions, showing just a simple diagram as shown below. My thought process in presenting the information this way was to just have a sticker shock value standing out for cloud spend in 2025. What I found was that the second graph showing the comparison of 2024 and 2025 told a better story because you can see the different types of cloud costs versus the orginal which does not tell us much apart from the exorbitant spend:
 
 <div class='tableauPlaceholder' id='viz1740777318679' style='position: relative'><noscript><a href='#'><img alt='Gartner Worldwide Public Cloud End-User Projected 2025 Spending (In Billions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -45,6 +49,7 @@ My initial sketch included an end-user projected spend cost in billions, showing
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 **Global FinOps Jobs**
 
@@ -65,23 +70,23 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-**Sectoin Removals and Edits**
+**Section Removals and Edits**
 From part II I removed what seemed to be a second title from Part II exclaiming “A Billion Dollar Size Challenge” as it seemed a bit out of place with the grainy picture and did not cohesively blend into the rest of the page. I took the “Cloud FinOps Expertise and Consulting” title and decided to state the exact problem and Cloud FinOps as a solution. By removing the second title, the new title became Cloud FinOps: A Strategic Solution to a Billion-Dollar-Sized Problem. I realized that the beginning needed to state exactly what Cloud FinOps was. I think this evolved from the first project and title, Welcome to My Page, as I began to crystallize that I did not need to make myself the center of the story but rather Cloud FinOps itself.
 
-"IT Spending Billions of Dollars" Chart
+**"IT Spending Billions of Dollars" Chart**
 Using Datawrapper, I highlighted the 1,377 in 2028 was to emphasize and isolate it as a visualization tactic (Good Charts, 131). Here, I highlighted the 2028 statistic showing a steady increase. I also ordered the graph in descending order naturally, as it shows an incremental increase year over year. My graph shows the different types of cloud costs, including SaaS, PaaS, and IaaS. I used different variations of the color swatch “#fa8c00” from Datawrapper to differentiate, complement, and contrast these different types of cloud (Good Charts Workbook, page 15).
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/7435b19b-e01c-4ea1-b655-57ee75df1503" />
 
-For the "Top Challenges for Companies Operating in the Cloud" section, I initially used a stacked bar chart to present the data, as it helped account for the various factors. However, I decided to switch to split bars for better clarity. The stacked bars made the ranks blend together, while the new design provides a clearer representation. The split bars effectively group the ranks and have been sorted, making the information easier to understand. I focused on improving clarity with this update.
+**For the "Top Challenges for Companies Operating in the Cloud" section,** I initially used a stacked bar chart to present the data, as it helped account for the various factors. However, I decided to switch to split bars for better clarity. The stacked bars made the ranks blend together, while the new design provides a clearer representation. The split bars effectively group the ranks and have been sorted by enterprise, small/medium business (SMB), and a category for all, making the information easier to understand. I focused on improving clarity with this update.
 
 <iframe title="Top Challenges for Companies Operating in the Cloud " aria-label="Split Bars" id="datawrapper-chart-A4gVp" src="https://datawrapper.dwcdn.net/A4gVp/4/" scrolling="no" frameborder="0" style="border: none;" width="844" height="404" data-external="1"></iframe>
 
-As a part of the larger narrative, after outlining the runaway cost. For "The FinOps Solution and Sustainability", I wanted to tie in some statistics around the global adoption of FinOps.I used brown soft tones for this to continue with overall theme of the charts. I also provided a statics on cost reduction. Here I used gray because it is an effective way to give emphasis for information to be highlighted in this case it was 30% of costs to be reduced and the what is background information (Good Charts Workbook, page 15). 
+As a part of the larger narrative, after outlining the runaway cost. **For "The FinOps Solution and Sustainability"** section, I wanted to tie in some statistics around the global adoption of FinOps.I used brown soft tones for this to continue with overall theme of the charts. I also provided a statics on cost reduction. Here I used gray because it is an effective way to give emphasis for information to be highlighted in this case it was 30% of costs to be reduced and the what is background information (Good Charts Workbook, page 15). 
 
 <iframe title="Achieving Cost Reduction through Reducing Waste" aria-label="Election Donut" id="datawrapper-chart-uoaZq" src="https://datawrapper.dwcdn.net/uoaZq/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="249" data-external="1"></iframe>
 
-To hone in on the sustainability and waste deduction, i created a Tableau packed bubbles chart that shows IT related electricity usage without efficiency being 31% globally. I decided to focus on how the story would be more persuasive by comparing strictly the Electricity usage with and without efficiency. I took out the CO2 data because it did not cohesively tell the story. 
+To hone in on the sustainability and waste reduction, II created a Tableau packed bubbles chart that shows IT related electricity usage without efficiency being 31% globally. I decided to focus on how the story would be more persuasive by comparing strictly the Electricity usage with and without efficiency. As such, I took out the CO2 data which was previously shown in iteration wo because it did not add an imperative dimension to the story. 
  
 <div class='tableauPlaceholder' id='viz1740716165937' style='position: relative'><noscript><a href='#'><img alt='Comparing IT-related Electricity Usage by 2030Source: SoftwareOne  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -93,10 +98,10 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Cloud Imagery Design changes:
+**Cloud Imagery Design changes:**
 In the second part of the project, I utilized image of actual clouds and weaved it into the story. as I thought more about it and polished my website, I realized that this was not the most effective way for me to talk about the cloud. I reasoned that I do not want people to associate the cloud with actual clouds or have those two things synonymously coupled. 
 
-I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
+For my pie chart illustrated in **Call to Action**: I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
 ![image](https://github.com/user-attachments/assets/b7e470ae-6631-44cb-b43d-672d61351c84)
 
 ## The audience
