@@ -38,7 +38,7 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 
 Additionally, I also thought about creating a different type of chart with the data provided. Perhaps a table would have been best. I experimented with this in Tableau but ultimately decided to lean into how people think and use a bar chart to show the change year over year to respect convention (Good Charts Workbook, page 48).
 
-**Initial Sketches**
+**Initial Sketches**:
 My initial sketch included an end-user projected spend cost in billions, showing just a simple diagram as shown below. My thought process in presenting the information this way was to just have a sticker shock value standing out for cloud spend in 2025. What I found was that the second graph showing the comparison of 2024 and 2025 told a better story because you can see the different types of cloud costs versus the orginal which does not tell us much apart from the exorbitant spend:
 
 <div class='tableauPlaceholder' id='viz1740777318679' style='position: relative'><noscript><a href='#'><img alt='Gartner Worldwide Public Cloud End-User Projected 2025 Spending (In Billions)  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerCloudEnd-UserProjectedSpendinginBillions&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
@@ -52,7 +52,7 @@ My initial sketch included an end-user projected spend cost in billions, showing
 </script>
 
 
-**Global FinOps Jobs**
+&nbsp;&nbsp;&nbsp;**Global FinOps Jobs**
 
 The original global FinOps Job board showed the map of countries with FinOps jobs. I wanted to find a better way to represent the map. I really thought about Good Charts' persuasion or manipulation tactics for graphs. The orginal made did not take into account the actual job count across countries for open roles. I decided to change this chart to not only show FinOps jobs globally but also present a true picture of the actual job count in different countries. For the description of the graph, I leaned into describing ideas, not structure (Good Charts Workbook, page 48). I thought presenting the data to show insights into U.S. FinOps proliferation and tell the story of how the U.S. is leading in FinOps adoption.
 
