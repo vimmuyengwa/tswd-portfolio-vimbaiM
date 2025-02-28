@@ -62,9 +62,9 @@ For my second interview, I received feedback on the feel of the webpage and how 
 
 | **Questions**                           | **Interview 2 (Briefly Describe)**                                           |
 |-----------------------------------------|-------------------------------------------------------------------------------|
-| **What do you think about the story flow?** | - Switch the order and move content.                                        |
-|                                         | - Purpose of the site should be clear: Highlight your skills, but identify hook                             |
-|                                         | - Think of making a focus on consulting on cloud. Contact information                 |
+| **What do you think about the story flow?** | Switch the order and move content.                                        |
+|                                         | Purpose of the site should be clear: Highlight your skills, but identify hook                             |
+|                                         | Think of making a focus on consulting on cloud. Contact information                 |
 | **Title Site**                          | Title site – "Cloud Expertise and Consulting." Suggestion: Keep intro short and high-level |
 | **Hook**                                | Decide: The hook can be the cloud expertise. It can attract more eyeballs. The value is learning something and potentially hiring you. | Also consider a bigger audience if people want to learn about the cloud |
 | **Flow of Story?**                       | Be careful to ensure that you can connect your story throughout   |                                                                     |
@@ -76,7 +76,7 @@ For my third interview, i received feedback on the general professionalism and r
 |--------------------------------------------|-------------------------------------------------------------------------------|
 | **Thoughts on site feel and visualization?** | Intuitive, intelligible even ithout listing out your projects. Inclusion of timeline and projects is good. |
 | **Hiring feedback**                        | "I would hire you." Professional website. In lieu of a cover letter, you can send this to people. |
-| **If you were a hiring manager, would you reach out?** | (I would say yes). |
+| **If you were a hiring manager, would you reach out?** | "I would say yes" |
 
 
 
