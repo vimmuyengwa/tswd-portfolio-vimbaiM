@@ -19,7 +19,7 @@ My goal post graduation plan is to return to the Cloud FinOps Space. In a nutshe
 
 # Portfolio
 
-## [Datav Visualiation Examples](dataviz-examples.md)
+## [Datav Visualization Examples](dataviz-examples.md)
 
 ## [Critique by Design](critique-by-design.md)
 
