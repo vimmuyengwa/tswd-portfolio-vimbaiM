@@ -30,7 +30,7 @@ The final project will demonstrate our skills in creating and presenting audienc
 A project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
 ### [Part II:](final-project-part-two.md)
 Sketches, wireframes, storyboards.  User research and incorporating user feedback.
-### [Part III:](final-project-part-three.md
+### [Part III:](final-project-part-three.md)
 Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
 
 ## Works cited
