@@ -95,7 +95,7 @@ For my third interview, i received feedback on the general professionalism and r
 | **Findings or Observations from Interviews**                                    | **Describe What, If Any Changes You Anticipate Making to Address the Observation** |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | **Observation 1**: Some interviewees felt that the cloud's origin story could help add to the story.     | Revise content to offer a clearer historical perspective with milestones (completed). |
-| **Observation 2**: Perhaps audience can benefit from how cloud services impact everyday life. | I mentioned in P1 how cloud is already part of our day to day (like iPhone or email storage) t. |
+| **Observation 2**: Perhaps audience can benefit from how cloud services impact everyday life. | I mentioned in P1 how cloud is already part of our day to day (like iPhone or email storage). |
 | **Observation 3**: Some feedback indicated that I needed to make sure the story did not veer off based on the multitude of narratives. | Improve transitions between sections, ensuring a smoother narrative and clearer links between personal projects and cloud evolution. |
 | **Observation 4**: A few respondents found the content to be too long in the introductin. | Remove parts to ensure the core message is clear and concise (completed). |
 | **Observation 6**: I should identify my hook to make draw audience in.      | Develop a stronger, more engaging hook by adding a relatable story (e.g., iPhone's integration with cloud services. I pay 2.99 for picture storage currently. Maybe a play in this area). |
