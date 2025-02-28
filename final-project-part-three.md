@@ -53,6 +53,7 @@ My initial sketch included an end-user projected spend cost in billions, showing
 
 <br>
 <br>
+
 **Global FinOps Jobs**
 
 The original global FinOps Job board showed the map of countries with FinOps jobs. I wanted to find a better way to represent the map. I really thought about Good Charts' persuasion or manipulation tactics for graphs. The orginal made did not take into account the actual job count across countries for open roles. I decided to change this chart to not only show FinOps jobs globally but also present a true picture of the actual job count in different countries. For the description of the graph, I leaned into describing ideas, not structure (Good Charts Workbook, page 48). I thought presenting the data to show insights into U.S. FinOps proliferation and tell the story of how the U.S. is leading in FinOps adoption.
@@ -72,6 +73,8 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<br>
+<br>
 
 **Section Removals and Edits**
 From part II I removed what seemed to be a second title from Part II exclaiming “A Billion Dollar Size Challenge” as it seemed a bit out of place with the grainy picture and did not cohesively blend into the rest of the page. I took the “Cloud FinOps Expertise and Consulting” title and decided to state the exact problem and Cloud FinOps as a solution. By removing the second title, the new title became Cloud FinOps: A Strategic Solution to a Billion-Dollar-Sized Problem. I realized that the beginning needed to state exactly what Cloud FinOps was. I think this evolved from the first project and title, Welcome to My Page, as I began to crystallize that I did not need to make myself the center of the story but rather Cloud FinOps itself.
@@ -80,13 +83,18 @@ From part II I removed what seemed to be a second title from Part II exclaiming 
 
 Using Datawrapper, I highlighted the 1,377 in 2028 to emphasize and isolate the year and amount using the highlighting visualization tactic (Good Charts, 131). Here, I highlighted the 2028 statistic showing a steady increase. I also ordered the graph in descending order naturally, as it shows an incremental increase year over year. My graph shows the different types of cloud costs, including SaaS, PaaS, and IaaS. I used different variations of the color swatch “#fa8c00” from Datawrapper to differentiate, complement, and contrast these different types of cloud (Good Charts Workbook, page 15).
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/7435b19b-e01c-4ea1-b655-57ee75df1503" />
 
 **For the "Top Challenges for Companies Operating in the Cloud" section,** 
 I initially used a stacked bar chart to present the data, as it helped account for the various factors. However, I decided to switch to split bars for better clarity. The stacked bars made the ranks blend together, while the new design provides a clearer representation. The split bars effectively group the ranks and have been sorted by enterprise, small/medium business (SMB), and a category for all, making the information easier to understand. I focused on improving clarity with this update.
 
+Old Chart
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/7435b19b-e01c-4ea1-b655-57ee75df1503" />
+
+New Chart
 <iframe title="Top Challenges for Companies Operating in the Cloud " aria-label="Split Bars" id="datawrapper-chart-A4gVp" src="https://datawrapper.dwcdn.net/A4gVp/4/" scrolling="no" frameborder="0" style="border: none;" width="844" height="404" data-external="1"></iframe>
 
+<br>
+<br>
 As a part of the larger narrative, after outlining the runaway cost. **For "The FinOps Solution and Sustainability"** section, I wanted to tie in some statistics around the global adoption of FinOps.I used brown soft tones for this to continue with overall theme of the charts. I also provided a statics on cost reduction. Here I used gray because it is an effective way to give emphasis for information to be highlighted in this case it was 30% of costs to be reduced and the what is background information (Good Charts Workbook, page 15). 
 
 <iframe title="Achieving Cost Reduction through Reducing Waste" aria-label="Election Donut" id="datawrapper-chart-uoaZq" src="https://datawrapper.dwcdn.net/uoaZq/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="249" data-external="1"></iframe>
@@ -102,10 +110,14 @@ var vizElement = divElement.getElementsByTagName('object')[0];
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+<br>
+<br>
 
 **Cloud Imagery Design changes:**
 In the second part of the project, I utilized image of actual clouds and weaved it into the story. as I thought more about it and polished my website, I realized that this was not the most effective way for me to talk about the cloud. I reasoned that I do not want people to associate the cloud with actual clouds or have those two things synonymously coupled. 
 
+<br>
+<br>
 For my pie chart illustrated in **Call to Action**: I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
 ![image](https://github.com/user-attachments/assets/b7e470ae-6631-44cb-b43d-672d61351c84)
 
