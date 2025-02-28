@@ -1,8 +1,8 @@
 | [home page](https://vimmuyengwa.github.io/tswd-portfolio-vimbaiM/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-https://carnegiemellon.shorthandstories.com/projectiiifinal_vimbaimuyengwa/index.html
-https://preview.shorthand.com/63D9SWh1IadR76n6 (preview version is showing Tableau Graphs)
+[Published Site](https://carnegiemellon.shorthandstories.com/projectiiifinal_vimbaimuyengwa/index.html)
+[Preview Site](https://preview.shorthand.com/63D9SWh1IadR76n6 (preview version is showing Tableau Graphs)
 
 
 # Changes made since Part II
