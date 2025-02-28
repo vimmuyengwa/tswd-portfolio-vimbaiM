@@ -58,17 +58,22 @@ The global FinOps job board showed the map of countries with FinOps jobs. I want
 
 
 I decided to recreate the MAP graph using Tableau insead as I thought the interactive piece with the map could be interesting if this evolved overtime showing different data points of the countries and jobs listed. Part of what we learned in Good charts was that you should try and create reusable or charts whose data can be iteratively improved to tell a different story or include richer data. After transitioning to tableau, I did hit a hurdle with the way the raphs were showing up in preview. I did some troubleshooting alone, and in the classroom before the professor provided the solution. I spent time rearranging and electing templates within my presentation that I could utilize the rich embed code instead of creating a section with HTML code.
+
 <div class='tableauPlaceholder' id='viz1740703034009' style='position: relative'><noscript><a href='#'><img alt='Global FinOps Foundation Job BoardUS organizations take the lead in addressing Cloud Cost Optimization NeedsSource: FinOps Foundation  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinOpsFoundationJobBoardMap_v2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinOpsFoundationJobBoardMap_v2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinOpsFoundationJobBoardMap_v2&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1740703034009');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
 I removed what seemed to be a second title from Part II exclaiming “A Billion Dollar Size Challenge” as it seemed a bit out of place with the grainy picture and did not cohesively blend into the rest of the page. I took the “Cloud FinOps Expertise and Consulting” title and decided to state the exact problem and Cloud FinOps as a solution. By removing the second title, the new title became Cloud FinOps: A Strategic Solution to a Billion-Dollar-Sized Problem. I realized that the beginning needed to state exactly what Cloud FinOps was. I think this evolved from the first project and title, Welcome to My Page, as I began to crystallize that I did not need to make myself the center of the story but rather Cloud FinOps itself.
 
 A huge part of showing the 1,377 was to emphasize and isolate it as a visualization tactic (Good Charts, 131) using Datawrapper. Here, I highlighted the 2028 statistic showing a steady increase. I also ordered the graph in descending order naturally, as it shows an incremental increase year over year. My graph shows the different types of cloud costs, including SaaS, PaaS, and IaaS. I used different variations of the color swatch “#fa8c00” from Datawrapper to differentiate, complement, and contrast these different types of cloud (Good Charts Workbook, page 15).
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/7435b19b-e01c-4ea1-b655-57ee75df1503" />
 
 For the "Top Challenges for Companies Operating in the Cloud" section, I initially used a stacked bar chart to present the data, as it helped account for the various factors. However, I decided to switch to split bars for better clarity. The stacked bars made the ranks blend together, while the new design provides a clearer representation. The split bars effectively group the ranks and have been sorted, making the information easier to understand. I focused on improving clarity with this update.
 
