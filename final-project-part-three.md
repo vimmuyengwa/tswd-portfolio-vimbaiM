@@ -70,6 +70,27 @@ I removed what seemed to be a second title from Part II exclaiming “A Billion 
 
 A huge part of showing the 1,377 was to emphasize and isolate it as a visualization tactic (Good Charts, 131) using Datawrapper. Here, I highlighted the 2028 statistic showing a steady increase. I also ordered the graph in descending order naturally, as it shows an incremental increase year over year. My graph shows the different types of cloud costs, including SaaS, PaaS, and IaaS. I used different variations of the color swatch “#fa8c00” from Datawrapper to differentiate, complement, and contrast these different types of cloud (Good Charts Workbook, page 15).
 
+For the "Top Challenges for Companies Operating in the Cloud" section, I initially used a stacked bar chart to present the data, as it helped account for the various factors. However, I decided to switch to split bars for better clarity. The stacked bars made the ranks blend together, while the new design provides a clearer representation. The split bars effectively group the ranks and have been sorted, making the information easier to understand. I focused on improving clarity with this update.
+
+<iframe title="Top Challenges for Companies Operating in the Cloud " aria-label="Split Bars" id="datawrapper-chart-A4gVp" src="https://datawrapper.dwcdn.net/A4gVp/4/" scrolling="no" frameborder="0" style="border: none;" width="844" height="404" data-external="1"></iframe>
+
+As a part of the larger narrative, after outlining the runaway cost. The FinOps Solution and Sustainability, I wanted to tie in some statistics around the global adoption of FinOps and showcase current pages 
+I used brown soft tones for this to continue with overall theme of the charts. I also provided a statics on cost reduction. Here I used gray because it is an effective way to give emphasis for information to be highlighted in this case it was 30% of costs to be reduced and the what is background information (Good Charts Workbook, page 15). 
+
+<iframe title="Achieving Cost Reduction through Reducing Waste" aria-label="Election Donut" id="datawrapper-chart-uoaZq" src="https://datawrapper.dwcdn.net/uoaZq/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="249" data-external="1"></iframe>
+
+To hone in on the sustainability and waste deduction, i created a tableau packed bubbles chart that hsows IT related electricity usage without efficiency being 31% globally. I decided to focus on how the story would be more persuasive by comparing strictly the Electricity usage with and without efficiency. I took out the CO2 data because it did not cohesively tell the sotry. 
+ 
+<div class='tableauPlaceholder' id='viz1740716165937' style='position: relative'><noscript><a href='#'><img alt='Comparing IT-related Electricity Usage by 2030Source: SoftwareOne  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;ComparingIT-RelatedCO2andElectricityUsageUpdate&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1740716165937');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
