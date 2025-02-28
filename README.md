@@ -19,19 +19,18 @@ My goal post graduation plan is to return to the Cloud FinOps Space. In a nutshe
 
 # Portfolio
 
-## Dataviz-examples 
-[View Here](dataviz-examples.md)
+## [Dataviz-examples](dataviz-examples.md)
 
 ## [Critique by Design](critique-by-design.md)
 
-## Final project
+## [Final project](final-project-part-one.md)
 The final project will demonstrate our skills in creating and presenting audience centered data visualizations effectively and concisely
 
-### Part I: 
+### [Part I:](final-project-part-one.md)
 A project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
-### Part II: 
+### [Part II:](final-project-part-two.md)
 Sketches, wireframes, storyboards.  User research and incorporating user feedback.
-### Part III: 
+### [Part III:](final-project-part-three.md
 Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
 
 ## Works cited
