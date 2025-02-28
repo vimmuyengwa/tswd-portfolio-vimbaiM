@@ -4,7 +4,7 @@
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 ## Week 2: Data viz redesign! 
-[Urban Mobility Readiness Index](https://datawrapper.dwcdn.net/7FnQu/1/)
+<iframe title="Urban Mobility Readiness Index " aria-label="Stacked Bars" id="datawrapper-chart-7FnQu" src="https://datawrapper.dwcdn.net/7FnQu/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="1311" data-external="1"></iframe>
 
 
 ## Week 3: Tableau Visualization Example
