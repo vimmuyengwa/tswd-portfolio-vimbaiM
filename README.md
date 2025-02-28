@@ -19,16 +19,9 @@ My goal post graduation plan is to return to the Cloud FinOps Space. In a nutshe
 
 # Portfolio
 
-## Best of Breed (Visualizations) 
+## Dataviz-examples 
 
-
-## Sketching Exercise Improvement
-### Sketching Excercise Week 1
-### Sketching Excercise Week 6
-
-## Working with Tableau: Visualizing Government Debt
-
-## Assignment 3&4
+## Critique by Design
 
 ## Final project
 The final project will demonstrate our skills in creating and presenting audience centered data visualizations effectively and concisely
@@ -42,3 +35,49 @@ Final deliverable and presentation.  The final deliverable can be a website, pre
 
 ## Works cited
 Goranson, Chris. Syllabus: "Telling Stories with Data." Course No. 94-870, 94-470, Section A3, [Carnegie Mellon University], [Spring 2025].
+
+World Happiness Report. (2024). Happiness of the younger, the older, and those in between. Retrieved February 12, 2025, from https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023
+
+VizHealth. (n.d.). VizHealth Wizard. Retrieved February 12, 2025, from http://www.vizhealth.org/wizard/
+
+Berinato, S. (2023). Good charts: The HBR guide to making smarter, more persuasive data visualizations (updated and expanded).
+
+Peck, E. (2019, May 20). Data is personal. What we learned from 42 interviews in rural America. Multiple Views: Visualization Research Explained. https://www.medium.com
+
+Tableau Software, Inc. (2025). Tableau reference - chart overviews [PDF]. Retrieved from https://canvas.cmu.edu/courses/45739/files/12197445?module_item_id=6045478#:~:text=Files-,Tableau%20reference%20%2D%20chart%20overviews.pdf,-Spring%202025
+
+Trina Chi. (n.d.). Chapter 15: Data design builds. In Data design builds. Retrieved January 26, 2025, from https://trinachi.github.io/data-design-builds/ch15.html
+Datawrapper. (n.d.). What to consider when choosing colors for data visualization. Datawrapper Academy. Retrieved January 26, 2025, from https://academy.datawrapper.de/article/140-what-to-consider-when-choosing-colors-for-data-visualization
+
+Infotech. (n.d.). Take control of cloud costs on AWS. Infotech. Retrieved February 3, 2025, from https://www.infotech.com/research/ss/take-control-of-cloud-costs-on-aws
+
+Flexera. (2024). State of the cloud report. Flexera. Retrieved February 3, 2025, from https://info.flexera.com/CM-REPORT-State-of-the-Cloud-2024-Thanks?revisit
+
+Gartner. (2024, November 19). Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025. Gartner. Retrieved February 3, 2025, from https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025
+
+FinOps Foundation. (n.d.). FinOps job board. FinOps Foundation. Retrieved February 3, 2025, from https://jobs.finops.org/?prod_jobs%5BrefinementList%5D%5Bcountry%5D%5B0%5D=United%20States
+Miro. (n.d.). Skills Map. Miro. Retrieved February 3, 2025, from https://miro.com/app/board/uXjVLkLGZtU=/
+
+The future of FinOps: driving innovation, sustainability, and AI-driven cloud optimisation. (n.d.). Raconteur. Retrieved February 4, 2025, from https://www.raconteur.net/technology/the-future-of-finops-driving-innovation-sustainability-and-ai-driven-cloud-optimisation
+
+Duarte, N. (2011, March). The secret structure of great talks [Video]. TED Conferences. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?referrer=playlist-how_to_make_a_great_presentation
+
+Kwong, R. (2025, February 20). How we improved visual storytelling with templates that you can use, too. The Financial Times. https://source.opennews.org/articles/story-templates-financial-times-reusable
+
+ScamSpotter. (n.d.). ScamSpotter. ScamSpotter.org. Retrieved February 27, 2025, from https://scamspotter.org
+
+Sparkol. (2023, January 18). 8 classic storytelling techniques for engaging presentations. Sparkol Blog. Retrieved February 27, 2025, from https://blog.sparkol.com/8-classic-storytelling-techniques-for-engaging-presentations
+
+Foote, K. D. (2021, December 17). A brief history of cloud computing. Dataversity. https://www.dataversity.net/brief-history-cloud-computing/
+
+SoftwareOne. (n.d.). FinOps for sustainability: Save money and the planet. SoftwareOne. Retrieved February 18, 2025, from https://www.softwareone.com/en-us/finops-services/finops-sustainability-greenops
+
+Amazon Web Services. (n.d.). What is cloud computing? Amazon Web Services, Inc. Retrieved February 17, 2025, from https://aws.amazon.com/what-is-cloud-computing/
+
+Spot.io. (n.d.). FinOps Foundation Overview: Mission, History & Certifications. Spot.io. Retrieved February 20, 2025, from https://spot.io/resources/finops/finops-foundation-overview-mission-history-certifications/
+
+FinOps Foundation. (n.d.). Adopting FinOps: Getting started. FinOps Foundation. Retrieved February 20, 2025, from https://www.finops.org/wg/adopting-finops/
+
+Flaticon. (n.d.). Idea [Icon]. Flaticon. Retrieved February 17, 2025, from https://www.flaticon.com/free-icon/idea_189667
+
+
