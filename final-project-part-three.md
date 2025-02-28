@@ -1,40 +1,25 @@
 | [home page](https://vimmuyengwa.github.io/tswd-portfolio-vimbaiM/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
 
-Text here!
 
 # Changes made since Part II
-The lead-up to my final project was a return to the original game plan. With each iteration, I experimented with different ways to present my story, but I ended up going back to my roots and initial outline. Starting out in project one, I imagined my story arc would start with riding cloud costs to open up the story. At this point, I knew that I should first detail the problem space and then share how I should solve that problem. By Part II, I thought the reception would be more strategic if I introduced myself and my expertise first before introducing the problem space. I had in mind to create a sort of sandwich ending, with me sharing my experience and expertise. From requesting feedback, this ordering proved to be somewhat confusing, so I decided to create a new draft of my Shorthand and recraft the ordering to the original.
+**Story Arc**
+
+The lead-up to my final project was a return to the original game plan. With each iteration, I experimented with different ways to present my story, but I ended up going back to my roots and initial outline. Starting out in project one, I imagined my story arc would start with riding cloud costs to open up the story. At this point, I knew that I should first detail the problem space and then share how I should solve that problem. By Part II, I thought the reception would be more strategic if I introduced myself and my expertise first before introducing the problem space. I had in mind to create a sort of sandwich of information, with me sharing my experience and expertise. From requesting feedback, this ordering proved to be somewhat confusing, so I decided to create a new draft of my Shorthand and recraft the ordering to the original. I also reordered other items such as putting History of the cloud after the Cloud FinOps and Sustainability section. As part of my feedback, I wanted to ensure the story flowed well and that audience members could easily connect the dots in the narrative.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/eb2b4bc8-9e0b-41bf-a9cb-326e7d2961fa" />
 
+After receiving feedback for Part II of the project, I was really itching to create something that could truly resonate with the audience. I decided to incorporate in media res, which is beginning the “narrative in the heat of the action. (Sparkol)” To start, the title declares there is a billion-dollar-sized problem. The next question would be, how big is this problem? In the next section, I think the first graphical presentation comparing 2024 and 2025 spend does this effectively. As suggested by Sparkol, I thought this set up would help the audience "crave the solution", which is Cloud FinOps.
 
-In Part I of the project, I initially had a spider diagram to detail my skillset, broken out into quantitative analysis, strategy, technical, and communication skills. It also detailed my career title and pathway—where I am and where I want to go. With the introduction of Shorthand, I realized I could more effectively outline these skillsets by visually representing them with a timeline. I thought this could effectively show my career journey and highlight my pathway. I leaned into highlighting my career turning points in chronological order and using a “narrative arc” per the Financial Times.
+
+**Skills Outline Change**
+In Part I of the project, I initially had a spider diagram to detail my skillset, broken out into quantitative analysis, strategy, technical, and communication skills. It also detailed my career title and pathway—where I am and where I want to go. With the introduction of Shorthand, I realized I could more effectively outline these skillsets by visually representing them with a timeline. I thought this could effectively show my career journey and highlight my pathway. Here I really leaned into highlighting my career turning points in chronological order and using a “narrative arc” per the Financial Times (Kwong, R).
 
 For Part III, I decided to specifically call out my career timeline journey as a transition from strictly Business to Technology and Business. I think this callout will be essential in telling my story and providing more context about the work I have done to get here.
 
-
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-The audience since Part II has not changed. Since this is a professional website, the primary audience will be recruiters and companies seeking Cloud FinOps expertise. The potential users for my site will be hiring managers, recruiters, industry peers, and individuals in my network. From the beginning, the main audience was clear—companies and industry peers would be able to consume my site and understand the inner workings of what I was sharing.
-
-Where I needed to develop was for those in the audience who were not so familiar with the cloud context. My user interviews helped me to better develop the content for them. I thought about revisiting my initial idea in Part I, where I tied the cloud back to people’s usage of iPhone iCloud storage as an analogy that the audience could connect to.
-
-In Shorthand, I thought about how best to represent this, so I used a scrollmation to show the iPhone and have the image transition into the iCloud storage message showing “Not enough cloud storage.” I thought this would be a cool way to not just describe but visualize the concept for those who may or may not know what that message looks like.
-
-
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Final Design Decisions
-I have returned to the original format, listing out the history of the cloud after Cloud FinOps and Sustainability. As part of my feedback, I wanted to ensure the story flowed well and that audience members could easily connect the dots in the narrative.
-
-After receiving feedback for Part II of the project, I was really itching to create something that could truly resonate with the audience. I decided to incorporate in media res, which is beginning the “narrative in the heat of the action.” The title declares there is a billion-dollar-sized problem. The next question would be, how big is this problem? I think the first graphical presentation comparing 2024 and 2025 does this effectively. I thought maybe it could help the audience crave the solution, which is Cloud FinOps.
-
+### Final Design Decisions
 For my original bar chart, I had blue and orange for my bars. However, I thought about how best to complement the rest of my site. The colors I landed on were crème/maroon. At this point, I was thinking about how to use color (Good Charts Workbook, pg. 15). The goal in mind was to make it complementary. I thought about changing the title of the chart to show an alarming color, like red, for the text. However, I quickly realized it was best to stick to the variables (Good Charts).
 
 <div class='tableauPlaceholder' id='viz1740702193633' style='position: relative'><noscript><a href='#'><img alt='Gartner Worldwide Public Cloud Services End-User Spending Forecast, 2024-2025 (Billions of U.S. Dollars)Source: Gartner ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerTableComparisons_V2&#47;GartnerForecast&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GartnerTableComparisons_V2&#47;GartnerForecast' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GartnerTableComparisons_V2&#47;GartnerForecast&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
@@ -96,6 +81,22 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Cloud Imagery Design changes:
+In the second part of the project, I utilized image of actual clouds and weaved it into the story. as I thought more about it and polished my website, I realized that this was not the most effective way for me to talk about the cloud. I reasoned that I do not want people to associate the cloud with actual clouds or have those two things synonymously coupled. 
+
+I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
+![image](https://github.com/user-attachments/assets/b7e470ae-6631-44cb-b43d-672d61351c84)
+
+## The audience
+
+The audience for my final data story remains the same as part II. Since this is a professional website, the primary audience will be recruiters and companies seeking Cloud FinOps expertise. The potential users for my site will be hiring managers, recruiters, industry peers, and individuals in my network. From the beginning, the main audience was clear—companies and industry peers would be able to consume my site and understand the inner workings/technical jargon of what I was sharing.
+
+Where I needed to refine my approach was for those in the audience who may not be as familiar with cloud concepts. Insights from my user interviews helped me tailor the content to be more accessible. I revisited my initial idea from Part I, where I used iPhone iCloud storage as an analogy to make cloud computing more relatable. Some interviewees, particularly those in non-technical studies, expressed that they found cloud computing abstract and difficult to connect to everyday life. To bridge this gap, I revisited my initial idea from Part I, where I used iPhone iCloud storage as an analogy to make cloud concepts more relatable. This analogy resonated with audience I believe when I did my presentation, as most people were familiar with running out of iCloud storage but haven’t necessarily considered how cloud services impact them beyond their personal devices! For additional accessbility, though not presented in class, I also kept Cloud History section as I saw it as a way to incorporate key milestones in cloud development, making the story more informative for a broader audience.
+
+In Shorthand, I considered the best way to represent this concept visually and decided to use a scrollmation effect. This feature transitions an image of an iPhone into an iCloud storage message displaying “Not enough cloud storage.” I thought this would be an engaging way to not only describe the concept but also visualize it for those who may not be familiar with that message.
+
+## Final design decisions
+
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
@@ -105,9 +106,6 @@ Kwong, R. (2025, February 20). How we improved visual storytelling with template
 Berinato, S. (2020). Good charts workbook: Tips, tools, and exercises for making better data visualizations. Harvard Business Review Press.ScamSpotter. (n.d.). ScamSpotter. ScamSpotter.org. Retrieved February 27, 2025, from https://scamspotter.org
 
 Sparkol. (2023, January 18). 8 classic storytelling techniques for engaging presentations. Sparkol Blog. Retrieved February 27, 2025, from https://blog.sparkol.com/8-classic-storytelling-techniques-for-engaging-presentations
-
-
-
 
 
 ## AI acknowledgements
