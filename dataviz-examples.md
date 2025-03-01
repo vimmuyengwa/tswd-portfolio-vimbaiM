@@ -1,15 +1,23 @@
 | [home page](https://vimmuyengwa.github.io/tswd-portfolio-vimbaiM/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Data visualization examples
-_You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
-## Week 2: Data viz redesign! 
+## Week 2: Data viz redesign: Urban Mobility Readiness Index 
+
+The Urban Mobility Readiness Index evaluates the preparedness of cities to adopt and integrate innovative urban mobility solutions. It generally asks how you can make a city more accessible. The below are examples of some of these measures:
+
+1.	Infrastructure
+2.	Social Impact
+3.	Market Attractiveness
+4.	Systems Efficiency
+5.	Innovation
+
 <iframe title="Urban Mobility Readiness Index " aria-label="Stacked Bars" id="datawrapper-chart-7FnQu" src="https://datawrapper.dwcdn.net/7FnQu/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="1311" data-external="1"></iframe>
 
 
 ## Week 3: Tableau Visualization Example
 
-Below is an interactive Tableau visualization embedded from Tableau Public:
+Below is an interactive Tableau visualization embedded from Tableau Public. It shows Gross debt of the general government as a percentage of GDP
 
 ### General Government Debt Visualization
 
@@ -86,6 +94,8 @@ Below is an interactive Tableau visualization showing the pandemic impact on the
 </script>
 
 ### gapminder_Demo Visualization
+
+This chart compares female life expectancy and birth rates over time across different regions/continents. It highlights trends in health and population growth, showing how life expectancy has generally increased, but birth rates have varied
 
 Below is an interactive Tableau visualization for the Gapminder Demo:
 
