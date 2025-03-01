@@ -3,7 +3,7 @@
 # The final data story
 [Published Site](https://carnegiemellon.shorthandstories.com/projectiiifinal_vimbaimuyengwa/index.html)
 
-[Preview Site](https://preview.shorthand.com/63D9SWh1IadR76n6) (preview version is consistently showing Tableau graphs) 
+[Preview Site](https://preview.shorthand.com/63D9SWh1IadR76n6) (preview version consistently shows Tableau graphs) 
 
 
 # Changes made since Part II
