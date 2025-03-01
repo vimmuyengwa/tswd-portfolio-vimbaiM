@@ -119,6 +119,8 @@ In the second part of the project, I utilized image of actual clouds and weaved 
 <br>
 For my pie chart illustrated in **Call to Action**: I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
 
+<br>
+<br>
 **Overall Layout of Website**
 I changed the overall layout to experiment after my Tableau graphs weren't showing up in published mode. I'm not entirely sure if it resolved the issue, but I could see them intermittently when I edited the layout. After testing the link with others, they were able to see the graphs, though on my end, they would only appear occasionally. Interestingly, I also noticed that the new layout improved the mobile view!
 
