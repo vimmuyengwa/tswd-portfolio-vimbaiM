@@ -117,9 +117,10 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 In the second part of the project, I utilized image of actual clouds and weaved it into the story. as I thought more about it and polished my website, I realized that this was not the most effective way for me to talk about the cloud. I reasoned that I do not want people to associate the cloud with actual clouds or have those two things synonymously coupled. 
 
 <br>
-<br>
 For my pie chart illustrated in **Call to Action**: I changed the color of the pie chart and then made sure to highlight the area of data we wanted to show using color. For the section that should be the focus, I used a deeper toned reddish color and made the other section ligher. I also highligted the section to highlight
 
+**Overall Layout of Website**
+I changed the overall layout to experiment after my Tableau graphs weren't showing up in published mode. I'm not entirely sure if it resolved the issue, but I could see them intermittently when I edited the layout. After testing the link with others, they were able to see the graphs, though on my end, they would only appear occasionally. Interestingly, I also noticed that the new layout improved the mobile view!
 
 ## The audience
 
