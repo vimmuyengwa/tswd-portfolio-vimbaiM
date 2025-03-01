@@ -122,7 +122,7 @@ For my pie chart illustrated in **Call to Action**: I changed the color of the p
 <br>
 <br>
 **Overall Layout of Website**
-I changed the overall layout to experiment after my Tableau graphs weren't showing up in published mode. After doing some troubleshooting including double checking my device access on shorthand page settings, and scouring the internet for a solution, I decided to change the layout as an experiment. I a, not entirely sure if it resolved the issue, but I could see them intermittently when I edited the layout. After testing the link with others, they were able to see the graphs, though on my end, they would only appear occasionally. As an upside to this, I noticed that the new layout improved the mobile view! Knowing a good number of people would access the app with their phones made this a silver lining. 
+I changed the overall layout to experiment after my Tableau graphs weren't showing up in published mode. After doing some troubleshooting including double checking my device access on shorthand page settings, and scouring the internet for a solution, I decided to change the layout as an experiment. I a, not entirely sure if it resolved the issue, but I could see them intermittently when I edited the layout. After testing the link with others, they were able to see the graphs, though on my end, they would only appear occasionally. As an upside to this, I noticed that the new layout improved the mobile view! Knowing a good number of people would access the app with their phones made this a silver lining. I also found that the published website and all its graph loaded 100% of the time when viewing with a mobile phone.
 
 ## The audience
 
