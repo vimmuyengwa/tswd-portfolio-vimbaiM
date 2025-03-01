@@ -15,7 +15,7 @@ The Urban Mobility Readiness Index evaluates the preparedness of cities to adopt
 <iframe title="Urban Mobility Readiness Index " aria-label="Stacked Bars" id="datawrapper-chart-7FnQu" src="https://datawrapper.dwcdn.net/7FnQu/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="1311" data-external="1"></iframe>
 
 
-## Week 3: Tableau Visualization Example
+## Week 3-6: Tableau Visualization Example
 
 Below is an interactive Tableau visualization embedded from Tableau Public. It shows Gross debt of the general government as a percentage of GDP
 
