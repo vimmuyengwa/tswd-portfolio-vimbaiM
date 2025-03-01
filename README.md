@@ -23,7 +23,7 @@ My goal post graduation plan is to return to the Cloud FinOps Space. In a nutshe
 
 ## [Critique by Design](critique-by-design.md)
 
-## [Final project](final-project-part-one.md)
+## Final Project
 The final project will demonstrate our skills in creating and presenting audience centered data visualizations effectively and concisely
 
 ### [Part I:](final-project-part-one.md)
